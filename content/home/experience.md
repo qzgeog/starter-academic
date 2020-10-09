@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Ph.D."
+  company = "University of North Carolina - Chapel Hill"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "North Carolina"
+  date_start = "2014-08-01"
+  date_end = "2017-05-31"
   description = """
-  Responsibilities include:
+  # Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  # * Analysing
+  # * Modelling
+  # * Deploying
   """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "M.A."
+  company = "University of North Carolina - Chapel Hill"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "North Carolina"
+  date_start = "2011-08-01"
+  date_end = "2014-05-31"
+  description = """
+  # Responsibilities include:
+  
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  """
+[[experience]]
+  title = "B.A."
+  company = "Zhejiang University"
+  company_url = ""
+  location = "China"
+  date_start = "2007-01-01"
+  date_end = "2011-05-31"
+  # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
