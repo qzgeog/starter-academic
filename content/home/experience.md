@@ -25,11 +25,10 @@ date_format = "Jan 2006"
   date_start = "2014-08-01"
   date_end = "2017-05-31"
   description = """
-  # Responsibilities include:
+  Responsibilities include:
   
-  # * Analysing
-  # * Modelling
-  # * Deploying
+  * Analysing
+  * Modelling
   """
 [[experience]]
   title = "M.A."
@@ -39,11 +38,7 @@ date_format = "Jan 2006"
   date_start = "2011-08-01"
   date_end = "2014-05-31"
   description = """
-  # Responsibilities include:
-  
-  # * Analysing
-  # * Modelling
-  # * Deploying
+
   """
 [[experience]]
   title = "B.A."
