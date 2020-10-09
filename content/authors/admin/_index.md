@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qi Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Boston University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include coupled nature-human systems, forest conservation. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- Agent based modelling
+- Remote Sensing
+- Tennis
+- Guitar
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Geography
+    institution: UNC chapel hill
+    year: 2017
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +46,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'qz@bu.edu'  # For a direct email link, use "qz@bu.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Qi_Zhang115
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=v7n2b6oAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
