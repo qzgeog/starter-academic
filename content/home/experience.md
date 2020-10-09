@@ -24,12 +24,12 @@ date_format = "Jan 2006"
   location = "North Carolina"
   date_start = "2014-08-01"
   date_end = "2017-05-31"
-  description = """
-  Responsibilities include:
+#  description = """
+#  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  """
+#  * Analysing
+#  * Modelling
+#  """
 [[experience]]
   title = "M.A."
   company = "University of North Carolina - Chapel Hill"
@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2007-01-01"
   date_end = "2011-05-31"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
+  # description = """ """
 
 +++
