@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a postdoc in the Pardee Center at Boston University
+Qi Zhang is a postdoc in the Pardee Center at Boston University
