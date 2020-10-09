@@ -39,6 +39,12 @@ subtitle = ""
   description = "80%"  
   
 [[feature]]
+  icon = "itunes-note"
+  icon_pack = "fab"
+  name = "Guitar"
+  description = "40%"
+  
+[[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
