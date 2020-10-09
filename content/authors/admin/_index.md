@@ -46,10 +46,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'qz@bu.edu'  # For a direct email link, use "qz@bu.edu".
+  link: 'mailto:qz@bu.edu'  # For a direct email link, use "qz@bu.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/geog_qz
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Qi_Zhang115
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Qi Zhang is a postdoc in the Pardee Center at Boston University
+Qi Zhang's interests include coupled nature-human systems, forest conservation.
