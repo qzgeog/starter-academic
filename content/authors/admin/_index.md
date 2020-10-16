@@ -15,29 +15,27 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
 - name: Boston University
-  url: ""
+  url: "http://www.bu.edu/pardee/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include coupled nature-human systems, forest conservation. 
+bio: My research interests include coupled nature-human systems, land use change, and forest conservation. 
 
 interests:
-- Statistics
-- Agent based modelling
+- Agent based modeling
+- Statistical modeling
 - Remote Sensing
-- Tennis
-- Guitar
 
 education:
   courses:
   - course: PhD in Geography
-    institution: UNC chapel hill
+    institution: University of North Carolina at Chapel Hill
     year: 2017
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+  - course: MA in Geography
+    institution: University of North Carolina at Chapel Hill
+    year: 2014
+  - course: BA in Resources and Environment
+    institution: Zhejiang University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -76,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Qi Zhang's interests include coupled nature-human systems, forest conservation.
+Qi Zhang's research interests include coupled nature-human systems, land use change, and forest conservation.
