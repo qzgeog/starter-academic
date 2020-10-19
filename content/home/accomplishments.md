@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+# title = "Accomplish&shy;ments"
+title = "Publication"
 subtitle = ""
 
 # Date format
@@ -18,34 +19,24 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+# [[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Neural Networks and Deep Learning"
+#  url = ""
+#  certificate_url = "https://www.coursera.org"
+#  date_start = "2018-10-01"
+#  date_end = ""
+#  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "citation: 730,  h-index: 12"
+ # organization_url = "https://scholar.google.com/citations?user=v7n2b6oAAAAJ&hl"
+  title = "Please find the full list of Qi Zhang's publications through google scholar"
+  url = "https://scholar.google.com/citations?user=v7n2b6oAAAAJ&hl"
+ # certificate_url = "https://www.datacamp.com"
+  date_start = "2020-10-20"
+  date_end = "2020-10-20"
   description = ""
 
 +++
