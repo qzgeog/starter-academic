@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
 #  location = "North Carolina"
   date_start = "2020-01-01"
-  date_end = "2017-05-31"
+#  date_end = "2017-05-31"
   description = """
   -	Monitor large-scale cropland dynamics under human and climate impacts with satellite observations and field measurements using remote sensing algorithms and advanced machine learning
   """
