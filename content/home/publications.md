@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Please find Qi Zhang's publications at https://scholar.google.com/citations?user=v7n2b6oAAAAJ&hl"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
