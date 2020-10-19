@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research"
+title = "Current Research"
 subtitle = ""
 
 # Date format for experience
@@ -22,28 +22,24 @@ date_format = "Jan 2006"
   company = "Collaborators: Chong Liu, Shiqi Tao"
   company_url = ""
 #  location = "North Carolina"
-  date_start = "2020-01-01"
+  date_start = "2020-04-01"
 #  date_end = "2017-05-31"
-  description = """
-  -	Monitor large-scale cropland dynamics under human and climate impacts with satellite observations and field measurements using remote sensing algorithms and advanced machine learning
-  """
+  description = """Monitor large-scale cropland dynamics under human and climate impacts with satellite observations and field measurements using remote sensing algorithms and advanced machine learning"""
 [[experience]]
-  title = "M.A."
-  company = "University of North Carolina - Chapel Hill"
+  title = "Adance theory of social dynamics in coupled nature-human systems"
+  company = "Mentors: Christoph Nolte, Anthony Janetos"
   company_url = ""
-  location = "North Carolina"
-  date_start = "2011-08-01"
-  date_end = "2014-05-31"
-  description = """
-
-  """
+#  location = "North Carolina"
+  date_start = "2019-01-01"
+#  date_end = "2014-05-31"
+  description = """Understand socio-economic influences on human post-environmental behaviors and ecosystem dynamics under forest conservation with spatially explicit agent-based modeling"""
 [[experience]]
-  title = "B.A."
-  company = "Zhejiang University"
+  title = "Modeling ecosystem service dynamics of mangrove forests"
+  company = "Collaborator: Srikanta Sannigrahi"
   company_url = ""
-  location = "China"
-  date_start = "2007-01-01"
-  date_end = "2011-05-31"
-  # description = """ """
+#  location = "China"
+  date_start = "2018-05-01"
+#  date_end = "2011-05-31"
+  description = """Estiamte ecosystem service values and examine ecosystem dynamics under human and natural forces with spatial regession modeling"""
 
 +++
