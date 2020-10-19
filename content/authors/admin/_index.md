@@ -21,8 +21,10 @@ organizations:
 bio: My research interests include coupled nature-human systems, land use change, and forest conservation. 
 
 interests:
-- Agent based modeling
-- Statistical modeling
+- Coupled nature-human system
+- Land use and land cover change
+- Payments for ecosystem services
+- Forest conservation
 - Remote Sensing
 
 education:
@@ -74,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Qi Zhang's research interests include coupled nature-human systems, land use change, and forest conservation.
+Qi Zhanga is a geographer with research interests in coupled nature-human systems, land use change, forest conservation, and household livelihoods. He uses both spatial data such as satellite observations and socioeconomic data collected from households surveys to examine when, where, how and why land use and land cover change. He integrates statistical models, agent-based models, remote sensing algorithms and machine learning techniques to answer questions that address the most urgent needs towards achieving sustainability goals such as ecosystem conservation and food security.
