@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 #  description = ""
   
 [[item]]
-  organization = "citation: 730,  h-index: 12      updated by"
+  organization = "citation: 730,  h-index: 12 "
  # organization_url = "https://scholar.google.com/citations?user=v7n2b6oAAAAJ&hl"
   title = "Please find the full list of Qi Zhang's publications through google scholar"
   url = "https://scholar.google.com/citations?user=v7n2b6oAAAAJ&hl"
