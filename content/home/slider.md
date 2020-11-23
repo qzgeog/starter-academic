@@ -17,7 +17,9 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "AI for Earth"
-  content = "n/ Crop cycle estimation over the U.S."
+  content = "Crop cycle estimation over the U.S.
+  
+  "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -32,7 +34,7 @@ height = "600px"
   cta_label = "Detailed Info"
   cta_url = "https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/"
   cta_icon_pack = "fas"
-  cta_icon = "cotton-bureau"
+  cta_icon = "pagelines"
 
 [[item]]
   title = "Coupled Human-Nature System"
