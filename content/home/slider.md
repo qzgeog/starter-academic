@@ -17,7 +17,7 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "AI for Earth"
-  content = "Crop cycle estimation over the U.S."
+  content = "n/ Crop cycle estimation over the U.S."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -32,7 +32,7 @@ height = "600px"
   cta_label = "Detailed Info"
   cta_url = "https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "cotton-bureau"
 
 [[item]]
   title = "Coupled Human-Nature System"
@@ -46,9 +46,22 @@ height = "600px"
   cta_label = "Detailed Info"
   cta_url = "https://www.bu.edu/pardee/2020/08/21/postdoc-qi-zhang-co-authors-paper-on-chinas-conversion-of-cropland-to-forest-program-ccfp/"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "dove"
 
+[[item]]
+  title = "Agent-based Modeling"
+  content = "Explore the interactions among human agents and environmental agents using models"
+  align = "center"
 
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "computer.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+  cta_label = "Detailed Info"
+  cta_url = ""
+  cta_icon_pack = "fas"
+  cta_icon = "house-user"
+  
 #  title = "Right"
 #  content = "I am right aligned :smile:"
 #  align = "right"
