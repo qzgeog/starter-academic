@@ -31,7 +31,7 @@ height = "600px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Detailed Info"
   cta_url = "https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/"
-  cta_icon_pack = "fas"
+  cta_icon_pack = "fab"
   cta_icon = "envira"
 
 [[item]]
