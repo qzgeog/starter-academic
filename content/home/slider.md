@@ -32,7 +32,7 @@ height = "600px"
   cta_label = "Detailed Info"
   cta_url = "https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/"
   cta_icon_pack = "fas"
-  cta_icon = "pagelines"
+  cta_icon = "envira"
 
 [[item]]
   title = "Coupled Human-Nature System"
