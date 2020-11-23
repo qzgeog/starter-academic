@@ -1,21 +1,21 @@
 ---
 title: Qi Zhang
 role: Postdoctoral Research Associate
-bio: My research interests include coupled nature-human systems, land use
+bio: My research interests include coupled natural and human systems, land use
   change, and forest conservation.
 interests:
-  - Coupled nature-human system
-  - Land use and land cover change
-  - Payments for ecosystem services
-  - Forest conservation
-  - Remote Sensing
+  - coupled natural and human system
+  - land use and land cover change
+  - payments for ecosystem services
+  - forest conservation
+  - remote sensing
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:qz@bu.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/geog_qz
+    link: https://twitter.com/qzgeog
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Qi_Zhang115
@@ -23,7 +23,8 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=v7n2b6oAAAAJ
 organizations:
-  - name: Boston University
+  - name: Boston University Frederick S. Pardee Center for the Study of the
+      Longer-Range Future
     url: http://www.bu.edu/pardee/
 education:
   courses:
@@ -45,4 +46,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-I am a geographer with research interests in coupled nature-human systems, land use change, forest conservation, and household livelihoods. He uses both spatial data such as satellite observations and socioeconomic data collected from households surveys to examine when, where, how and why land use and land cover change. He integrates statistical models, agent-based models, remote sensing algorithms and machine learning techniques to answer questions that address the most urgent needs towards achieving sustainability goals such as ecosystem conservation and food security.
+I am a geographer with research interests in coupled natural and human systems, land use change, forest conservation, and household livelihoods. I use spatial data such as satellite observations and socioeconomic data collected from households surveys to examine when, where, how and why land use and land cover change. I integrate statistical models, agent-based models, remote sensing algorithms and machine learning techniques to answer questions that address the most urgent needs towards achieving sustainability goals such as ecosystem conservation and food security.
