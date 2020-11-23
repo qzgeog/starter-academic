@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Skills"  # Title of the link.
-  url = "landing/"  # Widget Page folder name.
+  url = "skills/"  # Widget Page folder name.
   weight = 40  # Position of the link in the navigation bar.
 
 #[[main]]
