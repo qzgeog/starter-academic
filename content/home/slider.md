@@ -17,9 +17,7 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "AI for Earth"
-  content = "Crop cycle estimation over the U.S.
-  
-  "
+  content = "Crop cycle estimation over the U.S."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
