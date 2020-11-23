@@ -19,9 +19,9 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#accomplishments"
-  weight = 40
+  name = "Publications"  # Title of the link.
+  url = "publications/"  # Widget Page folder name.
+  weight = 40            # Position of the link in the navigation bar.
 
 [[main]]
   name = "Skills"  # Title of the link.
