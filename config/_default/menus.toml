@@ -23,6 +23,11 @@
   url = "#accomplishments"
   weight = 40
 
+[[main]]
+  name = "Skills"  # Title of the link.
+  url = "landing/"  # Widget Page folder name.
+  weight = 50  # Position of the link in the navigation bar.
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
