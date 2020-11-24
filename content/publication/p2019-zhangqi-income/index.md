@@ -11,8 +11,8 @@ authors:
 - Conghe Song
 - Shiqi Tao
 - Qingfeng Huang
-tags: ["payments for ecosystem services", "income inequality"]
-categories: []
+tags: [payments for ecosystem services, forest policy, income inequality, household livelihoods]
+categories: [CNH]
 date: '2019-06-01'
 lastmod: 2020-11-23T23:26:14-05:00
 featured: false
