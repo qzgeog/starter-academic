@@ -18,8 +18,8 @@ authors:
 - Saskia Keesstra
 - Ps Roy
 - Paul C Sutton
-tags: []
-categories: []
+tags: [ecosystem services, mangrove forest, conservation priority zone]
+categories: [ESV]
 date: '2020-09-01'
 lastmod: 2020-11-23T23:26:13-05:00
 featured: false
