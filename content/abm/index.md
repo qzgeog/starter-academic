@@ -30,3 +30,8 @@ A core characteristic related to emergence is self-organization, meaning that th
 
 Interdisciplinary studies of coupled human-natural systems leverage ABMs to advance understanding of system complexity and address the causes and consequences of environmental dynamics. The efforts are often approached from the view of land use/cover change, or LUCC. Human decision-making processes is a key component for land use simulation with ABMs, or LUCC-ABMs. Thus, the development of such ABMs should incorporate theories from multiple disciplines (e.g., social science) that can explain human agents’ behavior and interactions. However, a recent review found that human decision-making in most agent-based land use models is not firmly grounded with a theory; for those theoretically explicit, economic theories dominate while social and psychological theories are overlooked.
 
+*preliminary results gallery:*
+{{< gallery album="prelimResults" >}}
+
+
+
