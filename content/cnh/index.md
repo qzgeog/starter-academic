@@ -1,4 +1,4 @@
-+++
+---
 title: "Multiple interactions between nature and human - we live in a complex system"  # Add a page title.
 summary: "coupled nature human"  # Add a page description.
 date: "2020-11-24T00:32:00Z"  # Add today's date.
@@ -13,5 +13,5 @@ comments: false  # Show comments?
 header:
   caption: "Photo by Haolan Mao on Unsplash"
   image: "Anhuimaohaolan-unsplash.jpg"
-+++
+---
  
