@@ -10,7 +10,7 @@ authors:
 - Conghe Song
 - Qi Zhang
 - Richard E. Bilsborrow
-tags: []
+tags: [payments for ecosystem services, labor migration, household income]
 categories: []
 date: '2018-09-01'
 lastmod: 2020-11-23T23:26:15-05:00
