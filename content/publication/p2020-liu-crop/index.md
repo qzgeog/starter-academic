@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Rural household income distribution and inequality in China: Effects of payments
-  for ecosystem services policies and other factors'
+title: 'A new framework to map fine resolution cropping intensity across the globe: Algorithm, validation, and implication'
 subtitle: ''
 summary: ''
 authors:
