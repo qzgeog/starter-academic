@@ -11,7 +11,7 @@ authors:
 - Conghe Song
 - Shiqi Tao
 - Qingfeng Huang
-tags: []
+tags: [payments for ecosystem services, labor migration, forest policy]
 categories: []
 date: '2018-12-01'
 lastmod: 2020-11-23T23:26:15-05:00
