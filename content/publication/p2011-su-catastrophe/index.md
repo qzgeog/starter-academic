@@ -14,7 +14,7 @@ authors:
 - Rui Xiao
 - Junjun Zhi
 - Jiaping Wu
-tags: []
+tags: [ecological security, catastrophe]
 categories: []
 date: '2011-08-01'
 lastmod: 2020-11-23T23:26:15-05:00
