@@ -15,8 +15,8 @@ authors:
 - Qingfeng Huang
 - Jiangfeng Li
 - Conghe Song
-tags: []
-categories: []
+tags: [payments for ecosystem services, forest policy, labor allocation, household livelihoods]
+categories: [CNH]
 date: '2020-12-01'
 lastmod: 2020-11-23T23:26:13-05:00
 featured: false
