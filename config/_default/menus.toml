@@ -14,9 +14,14 @@
   weight = 30            # Position of the link in the navigation bar.
 
 [[main]]
+  name = "Talks"  # Title of the link.
+  url = "talks/"  # Widget Page folder name.
+  weight = 40  # Position of the link in the navigation bar.
+
+[[main]]
   name = "Skills"  # Title of the link.
   url = "skills/"  # Widget Page folder name.
-  weight = 40  # Position of the link in the navigation bar.
+  weight = 50  # Position of the link in the navigation bar.
 
 #[[main]]
 #  name = "News"
