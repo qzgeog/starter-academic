@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = ""
-subtitle = ""
+subtitle = "Forest detection using remote sensing"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -36,7 +36,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "10px", "100px", "10px"]
+  padding = ["40px", "100px", "20px", "100px"]
 
 [advanced]
  # Custom CSS. 
@@ -46,11 +46,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<br>
-
-## Forest detection using remote sensing
-
-<br>
 We establish three new remotely sensed forest development indexes (CCI, MI, and SSI) to quantify remotely sensed forest canopy development characteristics based on pixel proximity to the CCL in the B–G space of the Tasseled Cap transformation.
 <br>
 {{< figure src="tcaptransform.png" title="The canopy closure line (CCL) is defined based on canopy closure points in the brightness–greenness (B–G) space of the Tasseled Cap transformation." >}}
