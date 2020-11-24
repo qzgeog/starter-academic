@@ -19,7 +19,7 @@ design:
   columns: "1"
   background:
     image: Anhuimaohaolan-unsplash.jpg
-    image_darken: 0.3
+    image_darken: 0.5
     image_parallax: true
     image_position: center
     image_size: cover
@@ -28,13 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Human decision making is influence by their surrounding environment.
-Environment is extensively altered by human activities.
-
-
-
-
-
-
-
-Autumn Scenery in Anhu, China. Photo by Haolan Mao on Splash.
+# Human decision making is influence by their surrounding environment.
+# Environment is extensively altered by human activities.
+# Autumn Scenery in Anhu, China. Photo by Haolan Mao on Splash.
