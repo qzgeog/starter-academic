@@ -26,7 +26,7 @@ height = "600px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
-  cta_url = "https://www.bu.edu/pardee/2020/08/21/postdoc-qi-zhang-co-authors-paper-on-chinas-conversion-of-cropland-to-forest-program-ccfp/"
+  cta_url = "https://www.qzgeog.com/cnh/"
   cta_icon_pack = "fas"
   cta_icon = "dove"
 
