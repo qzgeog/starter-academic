@@ -30,7 +30,7 @@ height = "600px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Detailed Info"
-  cta_url = "https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/"
+  cta_url = "https://www.qzgeog.com/aiforearth/"
   cta_icon_pack = "fab"
   cta_icon = "envira"
 
