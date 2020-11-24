@@ -1,10 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
-  to forest program in the subtropical mountainous area and the semi-arid Loess Plateau
-subtitle: ''
-summary: ''
+title: 'Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
+  to forest program in the subtropical mountainous area and the semi-arid Loess Plateau'
 authors:
 - Qi Zhang
 - Ying Wang
@@ -15,10 +13,18 @@ authors:
 - Srikanta Sannigrahi
 - Qirui Li
 - Conghe Song
+
+publication_types: '2'
+abstract: ''
+publication: '*Ecosystem Services*'
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S2212041620301091
+doi: 10.1016/j.ecoser.2020.101167
+
+categories: [Coupled Nature-Human]
 tags: [payments for ecosystem services, forest policy, labor migration, social-ecological dynamics]
-categories: [CNH]
-date: '2020-10-01'
+date: '2020-08-12'
 lastmod: 2020-11-23T23:26:13-05:00
+
 featured: false
 draft: false
 
@@ -36,11 +42,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:13.601231Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Ecosystem Services*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S2212041620301091
-doi: 10.1016/j.ecoser.2020.101167
+
 ---
