@@ -22,7 +22,7 @@ height = "600px"
   align = "left"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "content/cnh/interview1.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_img = "cnh/interview1.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 #  cta_label = "Detailed Info"
@@ -36,7 +36,7 @@ height = "600px"
   align = "left"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "content/cnh/interview2.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_img = "cnh/interview2.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -45,7 +45,7 @@ height = "600px"
   align = "left"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "content/cnh/interview3.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_img = "cnh/interview3.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 
