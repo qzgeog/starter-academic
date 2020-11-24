@@ -1,4 +1,4 @@
----
+
 ### Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'A new framework to map fine resolution cropping intensity across the globe: algorithm, validation, and implication'
@@ -22,7 +22,8 @@ authors:
 - Awetahegn N. Beyene
 - Abdelrazek Elnashar
 
-publication_types: '2'
+publication_types: 
+- '2'
 abstract: ''
 publication: '*Remote Sensing of Environment*'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0034425720304685
@@ -51,4 +52,3 @@ image:
 ###   Otherwise, set `projects = []`.
 projects: []
 
----
