@@ -11,7 +11,7 @@ authors:
 - Qi Zhang
 - Jiangfeng Li
 - Xuewu Zhou
-tags: []
+tags: [ecosystem services, land use change]
 categories: []
 date: '2018-11-01'
 lastmod: 2020-11-23T23:26:14-05:00
