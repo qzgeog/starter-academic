@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Forest detection using remote sensing"
+title = ""
 subtitle = ""
 
 [design]
@@ -18,11 +18,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "white"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -32,7 +32,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -46,7 +46,7 @@ subtitle = ""
  css_class = ""
 +++
 
-##Forest detection using remote sensing
+## Forest detection using remote sensing
 
 We employ multitemporal remote sensing analysis to infer the net effect of the CCFP and the PWF forest policies in Tiantangzhai township, Anhui, China. Our results indicate that between 2002 and 2013, substantial land cover changes took place following the implementation of these two programs compared with the decade before. Overall, natural forests increased by 14% from 2002 to 2013, while the area of cropland declined by 9%. This increase in total forest cover likewise resulted in a decline in landscape-wide fragmentation as natural forests received protection and CCFP forest stands were established. CCFP forest stands located in proximity to managing households and occurring in favorable topographic positions experienced accelerated canopy structural development.
 
