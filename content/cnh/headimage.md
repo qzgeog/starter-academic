@@ -18,7 +18,7 @@ subtitle: The nature we live is featured by multiple interactions between human 
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: Anhuimaohaolan-unsplash.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
