@@ -11,6 +11,15 @@ authors:
 - Conghe Song
 - Shiqi Tao
 - Qingfeng Huang
+
+publishDate: '2020-11-24T04:26:14.316390Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Ecological Economics*'
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0921800918313478
+doi: 10.1016/j.ecolecon.2019.02.019
+
 tags: [payments for ecosystem services, forest policy, income inequality, household livelihoods]
 categories: [CNH]
 date: '2019-06-01'
@@ -32,11 +41,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:14.316390Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Ecological Economics*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0921800918313478
-doi: 10.1016/j.ecolecon.2019.02.019
+
 ---
