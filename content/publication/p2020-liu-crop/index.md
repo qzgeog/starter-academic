@@ -2,6 +2,8 @@
 ### Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'A new framework to map fine resolution cropping intensity across the globe: algorithm, validation, and implication'
+subtitle: ''
+summary: ''
 authors:
 - Chong Liu
 - Qi Zhang
