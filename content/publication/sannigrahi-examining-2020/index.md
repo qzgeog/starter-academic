@@ -18,8 +18,8 @@ authors:
 - Shouvik Jha
 - Saikat Kumar Paul
 - Somnath Sen
-tags: []
-categories: []
+tags: [ecosystem services, mangrove forest, land use change, climate change]
+categories: [ESV]
 date: '2020-06-01'
 lastmod: 2020-11-23T23:26:13-05:00
 featured: false
