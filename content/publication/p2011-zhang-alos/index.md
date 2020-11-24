@@ -10,7 +10,7 @@ authors:
 - Qi Zhang
 tags: [remote sensing, land use mapping, cropland, RADAR]
 categories: [remote sensing]
-date: 2020-11-24T11:04:04-05:00
+date: 2011-01-01T11:04:04-05:00
 lastmod: 2020-11-23T23:26:14-05:00
 featured: false
 draft: false
