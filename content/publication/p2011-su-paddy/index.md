@@ -11,7 +11,7 @@ authors:
 - Zhonghao Zhang
 - Junjun Zhi
 - Jiaping Wu
-tags: []
+tags: [urbanization, rural landscape]
 categories: []
 date: '2011-09-01'
 lastmod: 2020-11-23T23:26:15-05:00
