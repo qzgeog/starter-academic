@@ -46,3 +46,8 @@ We examine income distribution and inequality of rural households under CCFP and
 <br>
 A regression- based decomposition of inequality shows that the CCFP indirectly alters livelihoods by increasing outmigration with remittances, but it also adds to inequality from shifting livelihoods to non-agricultural activities. Meanwhile, EWFP payments positively affect agricultural incomes and contribute 16% to agricultural income inequality. Finally, human capital, natural capital and physical capital all play important roles in generating income and inequality, but the factors affecting inequality from agricultural and non-agricultural activities are different.
 <br>
+<br>
+
+See details in the [article](https://www.qzgeog.com/publication/p2019-zhangqi-income/) published on _Ecological Economics_
+
+<br>
