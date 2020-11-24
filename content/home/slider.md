@@ -18,7 +18,7 @@ height = "600px"
 
 [[item]]
   title = "Coupled Human-Nature System"
-  content = "Payment for ecosystem services"
+  content = "Payment for ecosystem services, forest conservation, livelihoods, income inequality, ..."
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
