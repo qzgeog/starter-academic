@@ -18,37 +18,37 @@ subtitle = ""
   icon = "google"
   icon_pack = "fab"
   name = "Google Earth Engine"
-  description = "40%"
+  description = ""
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "50%"
+  description = ""
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "80%"  
+  description = ""  
   
 [[feature]]
   icon = "itunes-note"
   icon_pack = "fab"
   name = "Guitar"
-  description = "40%"
+  description = ""
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "0.1%"
+  description = ""
 
 
 # Uncomment to use emoji icons.
