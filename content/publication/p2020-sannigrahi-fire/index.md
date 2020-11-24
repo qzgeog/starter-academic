@@ -20,8 +20,8 @@ authors:
 - Shouvik Jha
 - Saskia Keesstra
 - P.S. Roy
-tags: []
-categories: []
+tags: [ecosystem services, forest fire, remote sensing, carbon emission]
+categories: [ESV]
 date: '2020-07-01'
 lastmod: 2020-11-23T23:26:14-05:00
 featured: false
