@@ -31,10 +31,14 @@ We integrate AI and remote sensing to automatically estimate annual cropping cyc
 
 We will use advanced machine learning modules to analyze the “surface” of histograms of NDVI difference to select training sample, and then to automatically classify pixels about the information of cropping cycles. 
 
+*Qi Zhang*
+*October 2020*
+
 *related links:*
-[News in Pardee Center,](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/)
 
-[Open source data,](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/86M4PO)
+[News in Pardee Center](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/)
 
-[Publication - global cropping cycles,](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
+[Open source data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/86M4PO)
+
+[Publication - global cropping cycles](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
 
