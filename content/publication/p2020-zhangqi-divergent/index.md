@@ -15,8 +15,8 @@ authors:
 - Srikanta Sannigrahi
 - Qirui Li
 - Conghe Song
-tags: []
-categories: []
+tags: [payments for ecosystem services, forest policy, labor migration, social-ecological dynamics]
+categories: [CNH]
 date: '2020-10-01'
 lastmod: 2020-11-23T23:26:13-05:00
 featured: false
