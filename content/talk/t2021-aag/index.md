@@ -10,7 +10,7 @@ address:
   city:
   region:
   postcode:
-  country: United States
+  country: "United States"
 summary: 
 abstract: 
 
