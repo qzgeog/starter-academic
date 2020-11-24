@@ -19,7 +19,7 @@ design:
   columns: "1"
   background:
     image: Anhuimaohaolan-unsplash.jpg
-    image_darken: 0.3
+    image_darken: 0.1
     image_parallax: true
     image_position: center
     image_size: cover
