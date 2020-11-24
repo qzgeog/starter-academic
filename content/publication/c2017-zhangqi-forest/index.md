@@ -9,7 +9,7 @@ authors:
 - Q. Zhang
 - C.R. Hakkenberg
 - C. Song
-tags: []
+tags: [payments for ecosystem services, forest policy, remote sensing, Landsat]
 categories: []
 date: '2018-01-01'
 lastmod: 2020-11-23T23:26:15-05:00
