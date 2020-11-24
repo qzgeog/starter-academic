@@ -36,11 +36,11 @@ subtitle = ""
 +++
 <br>
 
-## Forest detection using remote sensing
+## Divergent socioeconomic-ecological outcomes of China’s conversion of cropland to forest program
 
 <br>
 We integrates household survey data, satellite imagery, and statistical models to examine labor migration and forest dynamics under CCFP. The investigation is carried out at two mountainous sites with distinct biophysical and socioeconomic conditions, one in a subtropical mountainous region (Anhui) and the other in the semi-arid Loess Plateau (Shanxi). 
-<br>
+<br><br>
 {{< figure src="framework.jpg" title="Divergent pathways to forest sustainability" >}}
 <br>
 We found divergent CCFP outcomes on migration behavior, stimulating both local- and distant-migration in the Anhui site while discouraging distant-migration in the Shanxi site, after controlling for factors at the individual, household, community and regional levels. 
