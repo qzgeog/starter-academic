@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interaction between land use change and labor migration under forest conservation"
-event: "American Association of Geographers (AAG) 2021 Annual Meeting"
+event: "American Association of Geographers (AAG) Annual Meeting 2021"
 event_url: https://www2.aag.org/aagannualmeeting/
 location: "Virtual"
 address:
@@ -10,9 +10,9 @@ address:
   city:
   region:
   postcode:
-  country:
+  country: United States
 summary: 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
