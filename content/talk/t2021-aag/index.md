@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "T2021 Aag"
-event:
-event_url:
-location:
+title: "Interaction between land use change and labor migration under forest conservation"
+event: "American Association of Geographers (AAG) 2021 Annual Meeting"
+event_url: https://www2.aag.org/aagannualmeeting/
+location: "Virtual"
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-24T01:39:54-05:00
-date_end: 2020-11-24T01:39:54-05:00
+date: 2021-04-01T08:30:00-05:00
+#date_end: 2020-11-24T01:39:54-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-11-24T01:39:54-05:00
 
-authors: []
-tags: []
+authors: [Qi Zhang]
+tags: [payments for ecosystem services, forest policies, forest livelihoods]
 
 # Is this a featured talk? (true/false)
 featured: false
