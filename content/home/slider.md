@@ -15,6 +15,21 @@ height = "600px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "Coupled Human-Nature System"
+  content = "Payment for ecosystem services"
+  align = "center"
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+  cta_label = "Detailed Info"
+  cta_url = "https://www.bu.edu/pardee/2020/08/21/postdoc-qi-zhang-co-authors-paper-on-chinas-conversion-of-cropland-to-forest-program-ccfp/"
+  cta_icon_pack = "fas"
+  cta_icon = "dove"
+
 [[item]]
   title = "AI for Earth"
   content = "Crop cycle estimation over the U.S."
@@ -33,20 +48,6 @@ height = "600px"
   cta_url = "https://www.qzgeog.com/aiforearth/"
   cta_icon_pack = "fab"
   cta_icon = "envira"
-
-[[item]]
-  title = "Coupled Human-Nature System"
-  content = "Payment for ecosystem services"
-  align = "center"
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-
-  cta_label = "Detailed Info"
-  cta_url = "https://www.bu.edu/pardee/2020/08/21/postdoc-qi-zhang-co-authors-paper-on-chinas-conversion-of-cropland-to-forest-program-ccfp/"
-  cta_icon_pack = "fas"
-  cta_icon = "dove"
 
 [[item]]
   title = "Agent-based Modeling"
