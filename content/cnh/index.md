@@ -13,5 +13,12 @@ comments: false  # Show comments?
 header:
   caption: "Photo by Haolan Mao on Unsplash"
   image: "Anhuimaohaolan-unsplash.jpg"
+
+image:
+  placement: 1
+  caption: "Autumn Scenery in Anhui, China. Photo by Haolan Mao on Unsplash" # [Academic](https://sourcethemes.com/academic/)
+  focal_point: "Center"
+  preview_only: false
+  alt_text: The nature we live is dynamic, featured by multiple impacts and feedbacks to/from human activities.
 ---
  
