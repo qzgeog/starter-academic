@@ -41,7 +41,8 @@ In the late 1990s, China initiated the Conversion of Croplands to Forest Program
 We examine income distribution and inequality of rural households under CCFP and EWFP in rural Anhui, China after 12 years of program implementation. Results show that CCFP-participating households have higher income inequality than non-participants, while the EWFP does not have a significant effect. Local off-farm work and out-migration with remittances are the two principal income sources and both add to inequality. 
 <br>
 {{< figure src="ecoeco1.jpg" title="Net non-agricultural income" >}}
-{{< figure src="ecoeco2.jpg" title="Net agricultural income" >}}
+<br>
+{{< figure src="ecoeco2.png" title="Net agricultural income" >}}
 <br>
 A regression- based decomposition of inequality shows that the CCFP indirectly alters livelihoods by increasing outmigration with remittances, but it also adds to inequality from shifting livelihoods to non-agricultural activities. Meanwhile, EWFP payments positively affect agricultural incomes and contribute 16% to agricultural income inequality. Finally, human capital, natural capital and physical capital all play important roles in generating income and inequality, but the factors affecting inequality from agricultural and non-agricultural activities are different.
 <br>
