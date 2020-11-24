@@ -11,7 +11,7 @@ authors:
 - Conghe Song
 - Shiqi Tao
 - Qingfeng Huang
-tags: []
+tags: ["payments for ecosystem services", "income inequality"]
 categories: []
 date: '2019-06-01'
 lastmod: 2020-11-23T23:26:14-05:00
