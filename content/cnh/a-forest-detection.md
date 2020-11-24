@@ -51,8 +51,8 @@ subtitle = ""
 
 <br>
 
-We establish three new remotely sensed forest development indexes (CCI, MI, and SSI) to quantify remotely sensed forest canopy development characteristics based on pixel proximity to the CCL in the B–G space of the Tasseled Cap transformation.
-<br>
+We establish three new remotely sensed forest development indexes, including the canopy closure index (CCI), the maturity index (MI), and the synergistic successional index (SSI), to quantify remotely sensed forest canopy development characteristics based on pixel proximity to the CCL in the B–G space of the [Tasseled Cap transformation](https://en.wikipedia.org/wiki/Tasseled_cap_transformation#:~:text=Tasseled%20cap%20transformation%20is%20a,of%20vegetation%20).
+<br><br>
 {{< figure src="tcaptransform.png" title="The canopy closure line (CCL) is defined based on canopy closure points in the brightness–greenness (B–G) space of the Tasseled Cap transformation." >}}
 <br>
 We employ multitemporal remote sensing analysis to infer the net effect of forest conservation policies in Tiantangzhai township, Anhui, China. Our results indicate that between 2002 and 2013, substantial land cover changes took place following the implementation of these two programs compared with the decade before. 
