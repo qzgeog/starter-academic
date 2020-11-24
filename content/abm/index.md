@@ -32,8 +32,9 @@ Interdisciplinary studies of coupled human-natural systems leverage ABMs to adva
 
 {{< figure src="heatmap_treeplanting.png" title="Spatial-explicit outcome of ABM - heatmap of tree planting" >}}
 
-*Qi Zhang*
-*November 2020*
+
+_Qi Zhang,_
+_November 2020_
 
 
 
