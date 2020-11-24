@@ -57,5 +57,5 @@ We establish three new remotely sensed forest development indexes, including the
 <br>
 We employ multitemporal remote sensing analysis to infer the net effect of forest conservation policies in Tiantangzhai township, Anhui, China. Our results indicate that between 2002 and 2013, substantial land cover changes took place following the implementation of these two programs compared with the decade before. 
 <br><br>
-Overall, natural forests increased by 14% from 2002 to 2013, while the area of cropland declined by 9%. This increase in total forest cover likewise resulted in a decline in landscape-wide fragmentation as natural forests received protection and CCFP forest stands were established. CCFP forest stands located in proximity to managing households and occurring in favorable topographic positions experienced accelerated canopy structural development.
+Overall, natural forests increased by 14% from 2002 to 2013, while the area of cropland declined by 9%. This increase in total forest cover likewise resulted in a decline in landscape-wide fragmentation as natural forests received protection and CCFP(China's conversion of cropland to forest program) forest stands were established. CCFP forest stands located in proximity to managing households and occurring in favorable topographic positions experienced accelerated canopy structural development.
 <br>
