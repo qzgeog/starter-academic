@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 # Slide interval.
@@ -29,25 +29,5 @@ height = "600px"
 #  cta_url = "https://www.qzgeog.com/cnh/"
 #  cta_icon_pack = "fas"
 #  cta_icon = "dove"
-
-[[item]]
-  title = 
-  content = "In-depth interview household"
-  align = "left"
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "cnh/interview2.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = 
-  content = "In-depth interview household"
-  align = "left"
-
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "cnh/interview3.png"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-
-
 
 +++
