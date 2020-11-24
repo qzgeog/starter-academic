@@ -46,4 +46,9 @@ We integrates household survey data, satellite imagery, and statistical models t
 We found divergent CCFP outcomes on migration behavior, stimulating both local- and distant-migration in the Anhui site while discouraging distant-migration in the Shanxi site, after controlling for factors at the individual, household, community and regional levels. 
 <br><br>
 Forest recovery is positively associated with distant-migration in Anhui but with local-migration in Shanxi. Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability. Regional differences should therefore be taken into account in the design of future large-scale PES programs.
+
+<br>
+
+See details in the [article](https://www.qzgeog.com/publication/zhang-divergent-2020/) published on _Ecosystem Services_
+
 <br>
