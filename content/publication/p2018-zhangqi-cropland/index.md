@@ -9,8 +9,8 @@ authors:
 - Qi Zhang
 - Conghe Song
 - Xiaodong Chen
-tags: []
-categories: []
+tags: [payments for ecosystem services, forest policy, land use change, cropland abandonment]
+categories: [CNH]
 date: '2018-04-01'
 lastmod: 2020-11-23T23:26:14-05:00
 featured: false
