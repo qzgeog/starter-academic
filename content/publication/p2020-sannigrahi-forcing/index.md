@@ -18,8 +18,8 @@ authors:
 - Suman Chakraborti
 - Saikat Kumar Paul
 - Somnath Sen
-tags: []
-categories: []
+tags: [ecosystem services, mangrove forest, land use change, climate change]
+categories: [ESV]
 date: '2020-05-01'
 lastmod: 2020-11-23T23:26:14-05:00
 featured: false
