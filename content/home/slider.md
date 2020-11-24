@@ -58,7 +58,7 @@ height = "600px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
-  cta_url = ""
+  cta_url = "https://www.qzgeog.com/abm/"
   cta_icon_pack = "fas"
   cta_icon = "house-user"
   
