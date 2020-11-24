@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "multilevel agents - villages, household, individuals..."
+  image: "cropland1.jpg"
 ---
 
 Add your *content* here...
