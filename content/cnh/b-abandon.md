@@ -20,7 +20,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "100px", "20px", "100px"]
 
 [advanced]
  # Custom CSS. 
@@ -29,11 +29,15 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<br>
 
 ## Cropland abandonment affected by forest policy
 
+<br>
+
 Cropland abandonment has emerged as a common phenomenon in land use transitions. Both cropland abandonment and Payment for Ecosystem Services (PES) programs can facilitate the provision of ecosystem services. 
-
+<br>
 {{< figure src="abandoned.JPG" title="Abandoned cropland in Tiantangzhai, Anhui, China." >}}
-
+<br>
 Our findings indicate that: 1) the overall cropland abandonment rates for the CCFP-participating households were lower than those for the non-participants in the years immediately after the implementation of the CCFP, but there was an acceleration of cropland abandonment by the CCFP participants afterwards, leading to the convergence of cropland abandonment rates between the two types of households. 2) Although CCFP payment did not have a long-term effect on cropland abandonment, a larger amount of EWFP payment significantly increased the likelihood of cropland abandonment. 3) Land parcel biophysical characteristics that facilitated cropland abandonment include proximity to EWFP and CCFP forests, poor accessibility and unfavorable topographic positions, and 4) among household socioeconomic conditions, poor farm labor availability and high proportion of local off-farm income in total gross income increased the likelihood of cropland abandonment, while owning domestic animals decreased the likelihood of abandoning cropland. 
+<br>
