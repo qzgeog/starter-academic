@@ -30,10 +30,10 @@ design:
 
  <br> 
   <br> 
-  
+    <br> 
+
 ##  Fieldwork image gallery
 
-    <br> 
-     <br> 
+<br> 
   
     
