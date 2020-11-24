@@ -32,8 +32,10 @@ We integrate AI and remote sensing to automatically estimate annual cropping cyc
 We will use advanced machine learning modules to analyze the “surface” of histograms of NDVI difference to select training sample, and then to automatically classify pixels about the information of cropping cycles. 
  
  <br>
-*Qi Zhang*
-*October 2020*
+ 
+_Qi Zhang_
+_October 2020_
+ 
  <br>
 
 *related links:* <br>
