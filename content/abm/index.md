@@ -1,9 +1,9 @@
 ---
 title: Understand human-nature interactions using agent based models
-summary: Here we describe how to add a page to your site.
+summary: summary of abm works.
 date: "2020-10-28T00:00:00Z"
 
-reading_time: false  # Show estimated reading time?
+reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
@@ -13,8 +13,6 @@ header:
   caption: "Photo by Devon Daniel on Unsplash"
   image: "cropland1.jpg"
 ---
-
-Add your *content* here...
 
 I built dynamic and spatially explicit Agent-based models (ABMS), which are increasingly used in research to better understand coupled human-nature systems, in particular feedback relationships among social agents and between social agents and environmental dynamics. As a bottom-up approach, ABMs simulate heterogeneous social agents with multilevel interactions in a holistic system, involving various characteristics such as self-organization, non-linearity, adaptation, learning, and time lags. 
 
