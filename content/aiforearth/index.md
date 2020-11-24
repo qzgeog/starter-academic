@@ -11,8 +11,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Tom Fisk on Pexels"
-  image: "harvest_pexels-tom-fisk.jpg"
+  caption: "Photo by Scott Goodwill on Unsplash"
+  image: "harvest_scott-goodwill-unsplash.jpg"
 ---
 
 Despite the ambitious goal of achieving hunger and poverty eradication by the United Nations, producing sufficient food to feed the ever-growing human population is facing unprecedented challenges across the globe. Agricultural production needs to double its current size within the next three decades to catch up with the increasing demands. 
