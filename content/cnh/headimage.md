@@ -27,7 +27,3 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-
-# Human decision making is influence by their surrounding environment.
-# Environment is extensively altered by human activities.
-# Autumn Scenery in Anhu, China. Photo by Haolan Mao on Splash.
