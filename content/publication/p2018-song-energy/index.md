@@ -12,8 +12,8 @@ authors:
 - Qi Zhang
 - Xiaodong Chen
 - Qingfeng Huang
-tags: []
-categories: []
+tags: [payments for ecosystem services, forest policy, energy use, household livelihoods]
+categories: [CNH]
 date: '2018-03-01'
 lastmod: 2020-11-23T23:26:15-05:00
 featured: false
