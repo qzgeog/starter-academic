@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Qi_Zhang115
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=v7n2b6oAAAAJ
 organizations:
   - name: Boston University Frederick S. Pardee Center for the Study of the
