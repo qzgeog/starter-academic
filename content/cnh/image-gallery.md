@@ -11,13 +11,13 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "600px"
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = 
+  title = ""
   content = "In-depth interview household"
   align = "left"
 
@@ -25,9 +25,9 @@ height = "600px"
   overlay_img = "cropParcels.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-#  cta_label = "Detailed Info"
-#  cta_url = "https://www.qzgeog.com/cnh/"
-#  cta_icon_pack = "fas"
-#  cta_icon = "dove"
+  cta_label = "Detailed Info"
+  cta_url = "https://www.qzgeog.com/cnh/"
+  cta_icon_pack = "fas"
+  cta_icon = "dove"
 
 +++
