@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "multilevel agents - villages, household, individuals..."
+  caption: "Photo by Devon Daniel on Unsplash"
   image: "cropland1.jpg"
 ---
 
