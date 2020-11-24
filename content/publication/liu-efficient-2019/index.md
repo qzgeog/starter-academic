@@ -13,12 +13,22 @@ authors:
 - Shiqi Tao
 - Hanzeyu Xu
 - Yuan Yao
-tags: []
-categories: []
+tags: [remote sensing, land use change, impervious surface, Landsat]
+categories: [remote sensing]
 date: '2019-08-01'
 lastmod: 2020-11-23T23:26:14-05:00
 featured: false
 draft: false
+
+publishDate: '2020-11-24T04:26:14.199026Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Remote Sensing of Environment*'
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0034425719301762
+doi: 10.1016/j.rse.2019.04.025
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,11 +44,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:14.199026Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Remote Sensing of Environment*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0034425719301762
-doi: 10.1016/j.rse.2019.04.025
+
 ---
