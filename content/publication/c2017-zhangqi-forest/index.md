@@ -6,15 +6,23 @@ title: 'Evaluating the Effectiveness of Forest Conservation Policies with Multit
 subtitle: ''
 summary: ''
 authors:
-- Q. Zhang
-- C.R. Hakkenberg
-- C. Song
+- Qi Zhang
+- Christopher R. Hakkenberg
+- Conghe Song
 tags: [payments for ecosystem services, forest policy, remote sensing, Landsat]
-categories: []
+categories: [Coupled Nature-Human]
 date: '2018-01-01'
 lastmod: 2020-11-23T23:26:15-05:00
 featured: false
 draft: false
+
+publishDate: '2020-11-24T04:26:15.252090Z'
+publication_types:
+- '6'
+abstract: ''
+publication: '*Comprehensive Remote Sensing*'
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/B978012409548910435X
+doi: 10.1016/B978-0-12-409548-9.10435-X
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,12 +37,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-11-24T04:26:15.252090Z'
-publication_types:
-- '6'
-abstract: ''
-publication: '*Comprehensive Remote Sensing*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/B978012409548910435X
-doi: 10.1016/B978-0-12-409548-9.10435-X
+projects: [p2020-ai4earth-1yr]
+
 ---
