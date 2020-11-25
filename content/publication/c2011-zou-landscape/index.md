@@ -13,7 +13,7 @@ authors:
 
 tags: [agricultural landscape, urbanization, remote sensing]
 categories: [Landscape Ecology]
-date: '2020-11-23'
+date: '2011-11-19'
 lastmod: 2020-11-23T23:26:15-05:00
 featured: false
 draft: false
