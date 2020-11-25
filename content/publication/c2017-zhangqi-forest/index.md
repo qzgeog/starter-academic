@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Evaluating the Effectiveness of Forest Conservation Policies with Multitemporal
-  Remotely Sensed Imagery: A Case Study From Tiantangzhai Township, Anhui, China'
+title: 'Evaluating the effectiveness of forest conservation policies with multitemporal
+  remotely sensed imagery: a case study from Tiantangzhai Township, Anhui, China'
 subtitle: ''
 summary: ''
 authors:
 - Qi Zhang
 - Christopher R. Hakkenberg
 - Conghe Song
-tags: [payments for ecosystem services, forest policy, remote sensing, Landsat]
+tags: [payments for ecosystem services, forest policy, remote sensing]
 categories: [Coupled Nature-Human]
-date: '2018-01-01'
+date: '2020-11-23'
 lastmod: 2020-11-23T23:26:15-05:00
 featured: false
 draft: false
@@ -21,7 +21,7 @@ publication_types:
 - '6'
 abstract: ''
 publication: '*Comprehensive Remote Sensing*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/B978012409548910435X
+url_pdf: https://www.sciencedirect.com/science/article/pii/B978012409548910435X
 doi: 10.1016/B978-0-12-409548-9.10435-X
 
 # Featured image
@@ -37,6 +37,6 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [p2020-ai4earth-1yr]
+projects: []
 
 ---
