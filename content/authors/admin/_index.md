@@ -1,12 +1,12 @@
 ---
 title: Qi Zhang
 role: Postdoctoral Research Associate
-bio: My research interests include coupled natural and human systems, land use
+bio: I am a  coupled natural and human systems, land use
   change, and forest conservation.
 interests:
-  - coupled natural and human system
-  - land use and land cover change
-  - payments for ecosystem services
+  - coupled natural-human systems
+  - land use/cover change
+  - ecosystem services
   - forest conservation
   - remote sensing
 social:
@@ -19,6 +19,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Qi_Zhang115
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/qizhang510/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=v7n2b6oAAAAJ
@@ -45,5 +48,6 @@ user_groups:
   - Visitors
 highlight_name: false
 email: ""
+
 ---
 I am a geographer with research interests in coupled human and natural systems, land use change, forest conservation, and household livelihoods. I use spatial data such as satellite observations and socioeconomic data collected from households surveys to examine when, where, how and why land use and land cover change. I integrate statistical models, agent-based models, remote sensing algorithms and machine learning techniques to answer questions that address the most urgent needs towards achieving sustainability goals such as ecosystem conservation and food security.
