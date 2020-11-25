@@ -4,7 +4,7 @@ role: Postdoctoral Research Associate
 bio: I am a  coupled natural and human systems, land use
   change, and forest conservation.
 interests:
-  - coupled natural-human systems
+  - coupled nature-human systems
   - land use/cover change
   - ecosystem services
   - forest conservation
