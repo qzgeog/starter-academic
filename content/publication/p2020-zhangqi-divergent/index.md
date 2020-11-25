@@ -1,4 +1,4 @@
----
+
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
@@ -46,4 +46,4 @@ image:
 ##   Otherwise, set `projects = []`.
 projects: []
 
----
+
