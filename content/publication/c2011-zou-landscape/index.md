@@ -1,21 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Dynamic Pattern of Agricultural Landscapes in Response to Urbanization across
-  Hangzhou Metropolitan Region: A Remote Sensing Approach'
+title: 'Dynamic pattern of agricultural landscapes in response to urbanization across
+  Hangzhou metropolitan region: a remote sensing approach'
 subtitle: ''
 summary: ''
 authors:
-- Zou Dongdong
-- Jiang Zhi
-- Zhang Qi
-- Zhang Yuan
-tags: []
-categories: []
-date: '2011-01-01'
+- Dongdong Zou
+- Zhi Jiang
+- Qi Zhang
+- Yuan Zhang
+
+tags: [agricultural landscape, urbanization, remote sensing]
+categories: [Landscape Ecology]
+date: '2020-11-23'
 lastmod: 2020-11-23T23:26:15-05:00
 featured: false
 draft: false
+
+publishDate: '2020-11-24T04:26:15.840655Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Proceedings of the 2011 International Conference on Informatics, Cybernetics,
+  and Computer Engineering (ICCE2011)*'
+url_pdf: http://link.springer.com/10.1007/978-3-642-25188-7_58
+doi: 10.1007/978-3-642-25188-7_58
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,12 +41,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:15.840655Z'
-publication_types:
-- '6'
-abstract: ''
-publication: '*Proceedings of the 2011, International Conference on Informatics, Cybernetics,
-  and Computer Engineering (ICCE2011) November 19–20, 2011, Melbourne, Australia*'
-url_pdf: http://link.springer.com/10.1007/978-3-642-25188-7_58
-doi: 10.1007/978-3-642-25188-7_58
+
 ---
