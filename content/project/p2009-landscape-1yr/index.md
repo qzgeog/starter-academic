@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "P2009 Landscape 1yr"
+title: "Agricultural landscape under urbanization"
 summary: ""
-authors: []
-tags: []
-categories: []
+authors: [Qi Zhang]
+tags: [agricultural landscape, urbanization, remote sensing]
+categories: [Landscape Ecology]
 date: 2020-11-24T22:15:39-05:00
 
 # Optional external URL for project (replaces project detail page).
