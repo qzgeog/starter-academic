@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2020-11-24T01:39:54-05:00
 
 authors: [Qi Zhang]
-tags: [payments for ecosystem services, forest policies, forest livelihoods]
+tags: [payments for ecosystem services, forest policy, land use change, household livelihoods]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -47,7 +47,6 @@ image:
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
-
 url_code:
 url_pdf:
 url_video:
