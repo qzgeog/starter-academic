@@ -3,6 +3,8 @@
 
 title: 'Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
   to forest program in the subtropical mountainous area and the semi-arid Loess Plateau'
+subtitle: ''
+summary: ''
 authors:
 - Qi Zhang
 - Ying Wang
