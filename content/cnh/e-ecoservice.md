@@ -50,6 +50,6 @@ Forest recovery is positively associated with distant-migration in Anhui but wit
 <br>
 <br>
 
-See details in the [article](https://www.qzgeog.com/publication/zhang-divergent-2020/) published on _Ecosystem Services_
+See details in the [article](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/) published on _Ecosystem Services_
 
 <br>
