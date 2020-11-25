@@ -1,8 +1,8 @@
 ---
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title = "Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
-  to forest program in the subtropical mountainous area and the semi-arid Loess Plateau"
+title = 'Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
+  to forest program in the subtropical mountainous area and the semi-arid Loess Plateau'
 subtitle: ''
 summary: ''
 authors:
