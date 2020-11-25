@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "P2020 Ai4earth 1yr"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Monitoring cropland dynamics"
+summary: "Estimating annual cropping cycles with remote sensing and AI"
+authors: [Qi Zhang, Shiqi Tao, Chong Liu]
+tags: [cropping cycles, AI for Earth, machine learning, remote sensing]
+categories: [Earth Science]
 date: 2020-11-24T20:00:09-05:00
 
 # Optional external URL for project (replaces project detail page).
@@ -38,4 +38,11 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
+
+
+
+
+
