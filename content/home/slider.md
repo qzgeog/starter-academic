@@ -17,8 +17,8 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Coupled Human-Nature System"
-  content = "Payment for ecosystem services, forest conservation, livelihoods, income inequality, ..."
+  title = "Coupled Natural and Human System"
+  content = "Payment for ecosystem services, forest conservation, labor migration, livelihoods, income inequality, ..."
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
@@ -32,7 +32,7 @@ height = "600px"
 
 [[item]]
   title = "AI for Earth"
-  content = "Crop cycle estimation over the U.S."
+  content = "Cropping cycle estimation"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -51,7 +51,7 @@ height = "600px"
 
 [[item]]
   title = "Agent-based Modeling"
-  content = "Explore the interactions among human agents and environmental agents using models"
+  content = "Explore human-environment interactions among social agents and environmental entities"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
