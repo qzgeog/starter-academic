@@ -5,7 +5,7 @@ bio: I am a  coupled natural and human systems, land use
   change, and forest conservation.
 interests:
   - coupled natural and human systems
-  - land use/cover change
+  - land use and land cover change
   - ecosystem services
   - forest conservation
   - remote sensing
