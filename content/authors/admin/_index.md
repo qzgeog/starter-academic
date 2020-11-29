@@ -9,6 +9,7 @@ interests:
   - ecosystem services
   - forest conservation
   - remote sensing
+  - agent-based modeling
 social:
   - icon: envelope
     icon_pack: fas
