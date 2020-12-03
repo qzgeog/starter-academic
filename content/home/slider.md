@@ -17,7 +17,7 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Coupled Natural and Human System"
+  title = "Coupled Natural and Human Systems"
   content = "Payment for ecosystem services, forest conservation, labor migration, livelihoods, income inequality, ..."
   align = "center"
 
@@ -31,7 +31,7 @@ height = "600px"
   cta_icon = "dove"
 
 [[item]]
-  title = "AI for Earth"
+  title = "AI for Earth System Dynamics"
   content = "Cropping cycle estimation"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -50,8 +50,8 @@ height = "600px"
   cta_icon = "envira"
 
 [[item]]
-  title = "Agent-based Modeling"
-  content = "Explore human-environment interactions among social agents and environmental entities"
+  title = "Agent-Based Modeling"
+  content = "Human-environment interactions among social agents and ecological entities with land system dynamics"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
