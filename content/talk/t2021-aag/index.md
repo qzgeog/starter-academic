@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interaction between land use change and labor migration under forest conservation"
-event: "American Association of Geographers (AAG) Annual Meeting 2021"
+event: "American Association of Geographers (AAG) 2021 Annual Meeting"
 event_url: https://www2.aag.org/aagannualmeeting/
 location: "Virtual"
 address:
