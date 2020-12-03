@@ -3,8 +3,8 @@
 
 title: "Divergent socioeconomic-ecological outcomes of China’s conversion of 
   cropland to forest program in the subtropical mountainous area and the semi-arid Loess Plateau"
-event: "IALE-North America 2021 Annual Meeting"
-event_url: http://www.ialena.org/symposia.html
+event: "International Association for Landscape Ecology - North America 2021 Annual Meeting"
+event_url: http://www.ialena.org/symposia.html/
 location: "Virtual"
 address:
   street:
