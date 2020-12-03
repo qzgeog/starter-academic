@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Qi Zhang
-- Christopher R. Hakkenberg
+- Christopher Hakkenberg
 - Conghe Song
 tags: [payments for ecosystem services, forest policy, remote sensing]
 categories: [Coupled Nature-Human]
-date: '2020-11-23'
-lastmod: 2020-11-23T23:26:15-05:00
+date: '2017-01-01'
+lastmod: 2017-01-01T23:26:15-05:00
 featured: false
 draft: false
 
