@@ -11,11 +11,15 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "website for store Shiqi's documents"
-  image: "cropland1.jpg"
+  image: "documentsFig.jpg"
 ---
 
 Vector comparison app in GEE
-  (1) User guide:
-  (2) Source code: 
+/n
+  (1) User guide: {{% staticref "files/Shiqi_VectorComparison_GEEUserGuide.pdf" %}}Download{{% /staticref %}}.
+/n
+  (2) Source code: {{% staticref "files/Shiqi_VectorComparison_GEECode.pdf" %}}Download{{% /staticref %}}.
+
+
 
 
