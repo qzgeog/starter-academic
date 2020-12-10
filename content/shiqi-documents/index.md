@@ -15,9 +15,11 @@ header:
 ---
 
 Vector comparison app in GEE
-/n
+
+
   (1) User guide: {{% staticref "files/Shiqi_VectorComparison_GEEUserGuide.pdf" %}}Download{{% /staticref %}}.
-/n
+
+
   (2) Source code: {{% staticref "files/Shiqi_VectorComparison_GEECode.pdf" %}}Download{{% /staticref %}}.
 
 
