@@ -39,11 +39,11 @@ We will use advanced machine learning modules to analyze the “surface” of hi
  <br>
  
 _Qi Zhang_
-_October 2020_
+_April 21, 2021_
  
  <br>
 
-*Related links:* <br>
+*Related Links:* <br>
 [News in Pardee Center](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
 [Open source data - global cropping cycles](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/86M4PO) <br>
 [Publication - a new framework to map global cropping cycles](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) <br>
