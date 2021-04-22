@@ -47,8 +47,8 @@ _April 21, 2021_
 [News in Pardee Center](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
 [Open source data - global cropping cycles](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/86M4PO) <br>
 [Publication - a new framework to map global cropping cycles](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) <br>
-[Labeled pixels: Region 1](https://drive.google.com/file/d/1iXzZc92ncc7Nd3b0y2glM3F_5f7magZs/view?usp=sharing) <br>
-[Labeled pixels: Region 2](https://drive.google.com/file/d/13XbnfwPe73aCO-8uxGLX3cWT7oqWwvcS/view?usp=sharing) <br>
-[Labeled pixels: Region 3](https://drive.google.com/file/d/1vvKCmwZrydTEyijUgNBtkn4GVr89Y7Dm/view?usp=sharing) <br>
-[Labeled pixels: Region 4](https://drive.google.com/file/d/19rTXU52M4VMmJ807S-ZEcZLko_sG71LL/view?usp=sharing) <br>
+[Labeled pixels: Region 1](https://1drv.ms/u/s!AkQ4qLuupxH1bnwZjU4a4iV_g4U?e=mgukMl) <br>
+[Labeled pixels: Region 2](https://1drv.ms/u/s!AkQ4qLuupxH1bYQ4w3cG2qtPaUY?e=LVlUnE) <br>
+[Labeled pixels: Region 3](https://1drv.ms/u/s!AkQ4qLuupxH1bPfalu0Wnma_OVc?e=ulBKLm) <br>
+[Labeled pixels: Region 4](https://1drv.ms/x/s!AkQ4qLuupxH1b0yWtnMVoZ7XpvI?e=YeSqCi) <br>
  <br>
