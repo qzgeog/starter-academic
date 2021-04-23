@@ -35,6 +35,8 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 
 {{< figure src="fig2_thresholds.png" title="Illustration of stable pixle labeling with tuning parameters" >}}
 
+{{< figure src="fig3_result.png" title="Maps of stable pixels and classified cropping cycles" >}}
+
 
  <br>
  
