@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Agricultural landscape under urbanization"
+title: "Agricultural Landscape & Urbanization"
 summary: ""
 authors: [Qi Zhang]
 tags: [agricultural landscape, urbanization, remote sensing, GIS]
