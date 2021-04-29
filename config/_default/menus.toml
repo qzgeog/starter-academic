@@ -7,7 +7,12 @@
   name = "Home"
   url = "#about"
   weight = 10
-
+  
+[[main]]
+  name = "Projects"
+  url = "projects/"
+  weight = 20
+  
 [[main]]
   name = "Publications"  # Title of the link.
   url = "publications/"  # Widget Page folder name.
@@ -22,11 +27,11 @@
   name = "Skills"
   url = "skills/"
   weight = 50
-  
+
 [[main]]
   name = "Contact"
   url = "contact/"
-  weight = 100
+  weight = 99
 
 #[[main]]
 #  name = "News"
