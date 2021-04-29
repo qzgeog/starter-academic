@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Divergent socioeconomic-ecological outcomes of China’s conversion of 
-  cropland to forest program in the subtropical mountainous area and the semi-arid Loess Plateau"
+title: "Divergent social-ecological outcomes of payments for ecosystem services"
 event: "International Association for Landscape Ecology - North America 2021 Annual Meeting"
 event_url: http://www.ialena.org/symposia.html/
 location: "Virtual"
@@ -24,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-03T22:00:00-05:00
 
-authors: [Qi Zhang]
+authors: [Qi Zhang, Ying Wang, Richard Bilsborrow, Conghe Song]
 tags: [payments for ecosystem services, forest policy, land use change, household livelihoods]
 
 # Is this a featured talk? (true/false)
