@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Monitoring cropland dynamics"
+title: "Cropland Dynamics"
 summary: "Estimating cropping cycles with remote sensing and AI"
 authors: [Qi Zhang, Shiqi Tao, Chong Liu]
 tags: [cropping cycles, AI for Earth, machine learning, remote sensing]
