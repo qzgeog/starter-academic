@@ -4,7 +4,7 @@
 title: "Agricultural landscape under urbanization"
 summary: ""
 authors: [Qi Zhang]
-tags: [agricultural landscape, urbanization, remote sensing]
+tags: [agricultural landscape, urbanization, remote sensing, GIS]
 categories: [Landscape Ecology]
 date: 2020-11-24T22:15:39-05:00
 
