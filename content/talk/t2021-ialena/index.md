@@ -1,4 +1,5 @@
 ---
+
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Divergent social-ecological outcomes of payments for ecosystem services"
@@ -16,14 +17,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-12T08:30:00-05:00
+date: 2021-04-13T12:30:00-05:00
 #date_end: 2021-04-16T08:30:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-03T22:00:00-05:00
 
-authors: [Qi Zhang, Ying Wang, Richard Bilsborrow, Conghe Song]
+authors: [Qi Zhang, Ying Wang, Richard E. Bilsborrow, Conghe Song]
 tags: [payments for ecosystem services, forest policy, land use change, household livelihoods]
 
 # Is this a featured talk? (true/false)
@@ -64,4 +65,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
