@@ -1,4 +1,5 @@
 ---
+
 title: Publications
 
 # View.
@@ -12,4 +13,5 @@ view: 4
 header:
   caption: ""
   image: ""
+
 ---
