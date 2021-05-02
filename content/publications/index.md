@@ -1,4 +1,3 @@
-
 ---
 title: "Publications Page"  # Add a page title.
 summary: "Publications"  # Add a page description.
