@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Identification of Conservation Priority Zones Using Spatially Explicit Valued
-  Ecosystem Services: A Case from the Indian Sundarbans'
+title: 'Identification of conservation priority zones using spatially explicit valued
+  ecosystem services: A case from the Indian Sundarbans'
 subtitle: ''
 summary: ''
 authors:
@@ -12,15 +12,15 @@ authors:
 - Arunima Sarkar Basu
 - Qi Zhang
 - Ying Wang
-- Pawan Kumar Joshi
+- Pawan K. Joshi
 - Suman Chakraborti
 - Luca Coscieme
 - Saskia Keesstra
-- Ps Roy
-- Paul C Sutton
+- Parth S. Roy
+- Paul C. Sutton
 tags: [ecosystem services, mangrove forest, conservation priority zone]
-categories: [ESV]
-date: '2020-09-01'
+categories: [Ecosystem Services]
+date: '2020-05-14'
 lastmod: 2020-11-23T23:26:13-05:00
 featured: false
 draft: false
