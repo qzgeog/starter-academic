@@ -1,4 +1,5 @@
 ---
+
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
@@ -6,7 +7,7 @@ title: 'Divergent socioeconomic-ecological outcomes of China’s conversion of c
 subtitle: ''
 summary: ''
 authors:
-- Qi Zhang
+- **Qi Zhang**
 - Ying Wang
 - Shiqi Tao
 - Richard E. Bilsborrow
