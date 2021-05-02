@@ -1,4 +1,5 @@
 ---
+
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interaction between land use change and labor migration under forest conservation"
@@ -64,4 +65,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
