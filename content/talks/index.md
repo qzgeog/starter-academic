@@ -1,4 +1,3 @@
-
 ---
 
 title: "Talks Page"  # Add a page title.
