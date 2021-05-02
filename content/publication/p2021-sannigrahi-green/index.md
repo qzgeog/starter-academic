@@ -12,15 +12,15 @@ authors:
 - Suman Chakraborti
 - Ying Wang
 - Bidroha Basu
-- Arunima Sarkar Basu
-- PK Joshi
+- Arunima S. Basu
+- Pawan K. Joshi
 - Saskia Keesstra
-- P.S. Roy
+- Parth S. Roy
 - Paul C. Sutton
 - Sandeep Bhatt
 - Shahid Rahmat
 - Shouvik Jha
-- Laishram Kanta Singh
+- Laishram K. Singh
 
 publication_types: 
 - '2'
