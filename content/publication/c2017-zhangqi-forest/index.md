@@ -11,12 +11,12 @@ authors:
 - Conghe Song
 tags: [payments for ecosystem services, forest policy, remote sensing]
 categories: [Coupled Nature-Human]
-date: '2017-01-01'
-lastmod: 2017-01-01T23:26:15-05:00
+date: '2018-01-01'
+lastmod: 2018-01-01T23:26:15-05:00
 featured: false
 draft: false
 
-publishDate: '2020-11-24T04:26:15.252090Z'
+publishDate: '2018-11-24T04:26:15.252090Z'
 publication_types:
 - '6'
 abstract: ''
