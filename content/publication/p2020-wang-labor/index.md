@@ -8,16 +8,24 @@ summary: ''
 authors:
 - Ying Wang
 - Qi Zhang
-- Richard Bilsborrow
+- Richard E. Bilsborrow
 - Shiqi Tao
 - Xiaodong Chen
-- Kira Sullivan-Wiley
+- Kira A. Sullivan-Wiley
 - Qingfeng Huang
 - Jiangfeng Li
 - Conghe Song
+
+publication_types:
+- '2'
+abstract: ''
+publication: '*Land Use Policy*'
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0264837720300764
+doi: 10.1016/j.landusepol.2020.105024
+
 tags: [payments for ecosystem services, forest policy, labor allocation, household livelihoods]
-categories: [CNH]
-date: '2020-12-01'
+categories: [Coupled Nature-Human]
+date: '2020-09-09'
 lastmod: 2020-11-23T23:26:13-05:00
 featured: false
 draft: false
@@ -37,10 +45,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2020-11-24T04:26:13.413466Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Land Use Policy*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0264837720300764
-doi: 10.1016/j.landusepol.2020.105024
+
 ---
