@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-04-07T08:30:00-05:00
-#date_end: 2021-04-11T08:30:00-05:00
+date: 2021-04-08T19:30:00-05:00
+#date_end: 2021-04-11T19:30:00-05:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-03T12:00:00-05:00
 
-authors: [Qi Zhang, Shiqi Tao, Richard Bilsborrow, Ying Wang, Conghe Song]
+authors: [Qi Zhang, Shiqi Tao, Richard E. Bilsborrow, Ying Wang, Conghe Song]
 tags: [payments for ecosystem services, forest policy, land use change, household livelihoods]
 
 # Is this a featured talk? (true/false)
