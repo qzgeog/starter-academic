@@ -29,7 +29,7 @@ publication: '*Journal of Environmental Management*'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0301479720313062
 doi: 10.1016/j.jenvman.2020.111381
 
-categories: [ESV]
+categories: [Ecosystem Services]
 tags: [ecosystem services, land use change, green revolution]
 date: '2021-01-01'
 lastmod: 2020-11-23T23:26:13-05:00
