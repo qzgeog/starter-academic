@@ -23,7 +23,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S2210670721000767
 doi: 10.1016/j.scs.2021.102784
 
 categories: [COVID-19]
-tags: [COVID-19, spatial-temporal analysis, labor migration]
+tags: [COVID-19, labor migration, public health, spatial-temporal analysis]
 date: '2021-05-01'
 lastmod: 2020-11-23T23:26:13-05:00
 
