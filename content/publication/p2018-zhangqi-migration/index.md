@@ -1,8 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Determinants of out-migration in rural China: effects of payments for ecosystem
-  services'
+## Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Determinants of out-migration in rural China: effects of payments for ecosystem services'
 subtitle: ''
 summary: ''
 authors:
@@ -11,10 +11,19 @@ authors:
 - Conghe Song
 - Shiqi Tao
 - Qingfeng Huang
-tags: [payments for ecosystem services, labor migration, forest policy]
-categories: []
+
+publication_types:
+- '2'
+abstract: ''
+publication: '*Population and Environment*'
+url_pdf: http://link.springer.com/10.1007/s11111-018-0307-5
+doi: 10.1007/s11111-018-0307-5
+
+categories: [Coupled Nature-Human]
+tags: [payments for ecosystem services, forest policy, labor migration, social-ecological dynamics]
 date: '2018-12-01'
 lastmod: 2020-11-23T23:26:15-05:00
+
 featured: false
 draft: false
 
@@ -32,11 +41,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:15.023190Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Population and Environment*'
-url_pdf: http://link.springer.com/10.1007/s11111-018-0307-5
-doi: 10.1007/s11111-018-0307-5
+
 ---
