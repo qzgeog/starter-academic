@@ -20,7 +20,8 @@ authors:
 - Saikat K. Paul
 - Somnath Sen
 
-publication_types: '2'
+publication_types: 
+- '2'
 abstract: ''
 publication: '*Journal of Cleaner Production*'
 url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0959652620304716
