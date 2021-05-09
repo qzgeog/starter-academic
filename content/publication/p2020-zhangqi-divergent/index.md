@@ -18,7 +18,7 @@ authors:
 - Conghe Song
 
 publication_types: 
-- '2' 
+- '2'
 abstract: ''
 publication: '*Ecosystem Services*'
 url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S2212041620301091
