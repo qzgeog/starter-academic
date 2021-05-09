@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+## Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Identification of conservation priority zones using spatially explicit valued
   ecosystem services: A case from the Indian Sundarbans'
@@ -18,32 +18,35 @@ authors:
 - Saskia Keesstra
 - Parth S. Roy
 - Paul C. Sutton
-tags: [ecosystem services, mangrove forest, conservation priority zone]
-categories: [Ecosystem Services]
-date: '2020-05-14'
-lastmod: 2020-11-23T23:26:13-05:00
-featured: false
-draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-11-24T04:26:13.724203Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Integrated Environmental Assessment and Management*'
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4287
 doi: 10.1002/ieam.4287
+
+categories: [Ecosystem Services]
+tags: [ecosystem services, mangrove forest, conservation priority zone]
+date: '2020-05-14'
+lastmod: 2020-11-23T23:26:13-05:00
+
+featured: false
+draft: false
+
+## Featured image
+## To use, add an image named `featured.jpg/png` to your page's folder.
+## Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+## Projects (optional).
+##   Associate this post with one or more of your projects.
+##   Simply enter your project's folder or file name without extension.
+##   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+##   Otherwise, set `projects = []`.
+projects: []
+
 ---
