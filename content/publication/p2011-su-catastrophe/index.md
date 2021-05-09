@@ -1,8 +1,8 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Assessing land ecological security in Shanghai (China) based on catastrophe
-  theory
+## Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Assessing land ecological security in Shanghai (China) based on catastrophe theory'
 subtitle: ''
 summary: ''
 authors:
@@ -14,10 +14,20 @@ authors:
 - Rui Xiao
 - Junjun Zhi
 - Jiaping Wu
-tags: [ecological security, catastrophe]
+
+publishDate: '2020-11-24T04:26:15.485858Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Stochastic Environmental Research and Risk Assessment*'
+url_pdf: http://link.springer.com/10.1007/s00477-011-0457-9
+doi: 10.1007/s00477-011-0457-9
+
 categories: []
+tags: [ecological security, catastrophe]
 date: '2011-08-01'
 lastmod: 2020-11-23T23:26:15-05:00
+
 featured: false
 draft: false
 
@@ -35,11 +45,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:15.485858Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Stochastic Environmental Research and Risk Assessment*'
-url_pdf: http://link.springer.com/10.1007/s00477-011-0457-9
-doi: 10.1007/s00477-011-0457-9
+
 ---
