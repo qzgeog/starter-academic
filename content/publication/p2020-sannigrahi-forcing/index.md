@@ -1,27 +1,36 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Responses of ecosystem services to natural and anthropogenic forcings: A spatial\
-  \ regression based assessment in the world's largest mangrove ecosystem"
+title: 'Responses of ecosystem services to natural and anthropogenic forcings: A spatial
+  regression based assessment in the world's largest mangrove ecosystem'
 subtitle: ''
 summary: ''
 authors:
 - Srikanta Sannigrahi
 - Qi Zhang
 - Francesco Pilla
-- Pawan Kumar Joshi
+- Pawan K. Joshi
 - Bidroha Basu
 - Saskia Keesstra
-- P.S. Roy
+- Parth S. Roy
 - Ying Wang
 - Paul C. Sutton
 - Suman Chakraborti
-- Saikat Kumar Paul
+- Saikat K. Paul
 - Somnath Sen
-tags: [ecosystem services, mangrove forest, land use change, climate change]
+
+publication_types:
+- '2'
+abstract: ''
+publication: '*Science of The Total Environment*'
+url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0048969720305143
+doi: 10.1016/j.scitotenv.2020.137004
+
 categories: [ESV]
+tags: [ecosystem services, mangrove forest, land use change, climate change]
 date: '2020-05-01'
 lastmod: 2020-11-23T23:26:14-05:00
+
 featured: false
 draft: false
 
@@ -39,11 +48,5 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-24T04:26:13.956657Z'
-publication_types:
-- '2'
-abstract: ''
-publication: '*Science of The Total Environment*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0048969720305143
-doi: 10.1016/j.scitotenv.2020.137004
+
 ---
