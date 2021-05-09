@@ -19,18 +19,18 @@ authors:
 - Suman Chakraborti
 - Saikat K. Paul
 - Somnath Sen
- 
-publication_types:
+
+publication_types: 
 - '2'
 abstract: ''
 publication: '*Science of The Total Environment*'
 url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0048969720305143
 doi: 10.1016/j.scitotenv.2020.137004
 
-categories: [ESV]
+categories: [Ecosystem Services]
 tags: [ecosystem services, mangrove forest, land use change, climate change]
 date: '2020-05-01'
-lastmod: 2020-11-23T23:26:14-05:00
+lastmod: 2020-11-23T23:26:13-05:00
 
 featured: false
 draft: false
