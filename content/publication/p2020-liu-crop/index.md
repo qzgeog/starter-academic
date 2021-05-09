@@ -1,7 +1,9 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'A new framework to map fine resolution cropping intensity across the globe: algorithm, validation, and implication'
+## Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "A new framework to map fine resolution cropping intensity across the globe: 
+  algorithm, validation, and implication"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +35,7 @@ doi: 10.1016/j.rse.2020.112095
 
 categories: [Earth Science]
 tags: [remote sensing, cropping intensity, fine resolution, cropland dynamics]
-date: '2020-09-18'
+date: '2020-12-15'
 lastmod: 2020-11-23T23:26:14-05:00
 
 featured: false
@@ -47,11 +49,11 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+## Projects (optional).
+##   Associate this post with one or more of your projects.
+##   Simply enter your project's folder or file name without extension.
+##   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+##   Otherwise, set `projects = []`.
 projects: []
 
 ---
