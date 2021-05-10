@@ -2,8 +2,8 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Divergent socioeconomic-ecological outcomes of China’s conversion of cropland
-  to forest program in the subtropical mountainous area and the semi-arid Loess Plateau'
+title: 'Understanding the effects of China’s agro-environmental policies on
+  rural households’ labor and land allocation with a spatially explicit agent-based model'
 subtitle: ''
 summary: ''
 authors:
