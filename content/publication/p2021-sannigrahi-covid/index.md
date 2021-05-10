@@ -14,7 +14,6 @@ authors:
 - Bidroha Basu
 - Arunima S. Basu
 - Francesco Pilla
-- Qi Zhang
 
 publication_types: 
 - '2'
