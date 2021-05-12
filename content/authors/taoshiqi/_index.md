@@ -43,7 +43,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/shi7tao
 - icon: google-scholar
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=yGQsEs0AAAAJ&hl=en&authuser=1
 - icon: researchgate
   icon_pack: fab
