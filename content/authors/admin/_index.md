@@ -7,7 +7,7 @@ title: Qi Zhang
 superuser: true
 
 # role/position/tagline
-role: Postdoctoral Research Associate
+role: Research Scholar
 
 # organizations/aAffiliations to show in About widget
 organizations:
