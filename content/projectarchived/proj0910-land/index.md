@@ -49,7 +49,8 @@ Here, we perofmed multiple endmember spectral mixture analysis (MESMA) examine t
 We show that agricultural landscapes in this region were converted, fragmented, and isolated, reflected by decreaed total area, increased patch density, and lengthened Euclidean nearest neighbor distance.
 
 
-Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang
+Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang 
+
 Funding: 
  - Emerging Talent Project of Zhejiang Province (No. 667140)
  - National Natural Science Foundation (No.41001202)
