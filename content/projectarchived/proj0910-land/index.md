@@ -53,7 +53,7 @@ Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang
 
 Funding: 
  - Emerging Talent Project of Zhejiang Province (No. 667140)
- - National Natural Science Foundation (No.41001202)
+ - National Natural Science Foundation (No. 41001202)
 
 <br>
 
