@@ -48,6 +48,8 @@ Here, we perofmed multiple endmember spectral mixture analysis (MESMA) examine t
 
 We show that agricultural landscapes in this region were converted, fragmented, and isolated, reflected by decreaed total area, increased patch density, and lengthened Euclidean nearest neighbor distance.
 
+{{< figure src="fig1land.jpg" title="Land use/cover patterns of the Hangzhou metropolitan region in 1994 and 2003 (Zou et al. 2020)" >}}
+
 
 Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang 
 
