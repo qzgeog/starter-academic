@@ -63,7 +63,8 @@ _Authors: Qi Zhang_
 <br>
 
 *Related Links:* <br>
-[Publication: Dynamics of agricultural landscape under urbanization (Zou et al. 2011)](https://doi.org/10.1007/978-3-642-25188-7_58) <br>
+[Publication: Dynamics of agricultural landscape under urbanization](https://doi.org/10.1007/978-3-642-25188-7_58)
+[(Zou et al. 2011)](https://www.qzgeog.com/publication/c2011-zou-landscape/) <br>
 
 <br>
 
