@@ -73,7 +73,7 @@ _April 21, 2021_
  <br>
 
 *Related Links:* <br>
-[News in Pardee Center](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
-[Publication: A new framework to map global cropping cycles (Liu et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) <br>
+[News in Frederick S. Pardee Center at Boston University](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
+[Publication: Mapping global cropping intensity (Liu et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) <br>
 
  <br>
