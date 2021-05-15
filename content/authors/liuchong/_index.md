@@ -7,7 +7,7 @@ title: Chong Liu
 superuser: false
 
 # role/position
-role: Assitant Professor
+role: Assitant Professor 
 
 # organizations/affiliations
 organizations:
