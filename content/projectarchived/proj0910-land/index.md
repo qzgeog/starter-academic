@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Agricultural Landscape & Urbanization"
-summary: "Monitoring dynamics of agricultural landscapes under urbanization"
+summary: "Monitoring dynamics of agricultural landscapes under urbanization with satellite remote sensing"
 authors: [Qi Zhang]
 tags: [agricultural landscape, urbanization, remote sensing, GIS]
 categories: [Landscape Ecology]
