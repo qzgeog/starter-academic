@@ -1,4 +1,5 @@
 ---
+
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Agricultural Landscape & Urbanization (Completed)"
@@ -6,7 +7,7 @@ summary: ""
 authors: [Qi Zhang]
 tags: [agricultural landscape, urbanization, remote sensing, GIS]
 categories: [Landscape Ecology]
-date: 2020-11-24T22:15:39-05:00
+date: 2009-11-24T22:15:39-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,4 +39,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
+
