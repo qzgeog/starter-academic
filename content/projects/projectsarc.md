@@ -1,15 +1,15 @@
 +++
 
-## An "On-going Projects" section created with the Pages widget.
-## This section displays on-going projects from `content/project`.
+## An "Archived Projects" section created with the Pages widget.
+## This section displays on-going projects from `content/projectarchived`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Archived Projects"
-subtitle = "Research projects that are active"
+title = "Completed Projects"
+subtitle = "Research projects that are archived"
 
 [content]
   ## Page type to display. E.g. post, talk, or publication.
