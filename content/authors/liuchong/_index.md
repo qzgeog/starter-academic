@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: Joint PhD in Remote Sensing Geography
+  - course: PhD in Remote Sensing
     institution: University of North Carolina at Chapel Hill & Wuhan University
     year: 2015
 
@@ -63,9 +63,9 @@ email: ""
 
 Prof. Chong Liu applies remote sensing techniques to map and monitor the Earth's terrestrial surfaces.
 He develops remote sensing algorithms that are generalizable to applications from local to global scales. 
-Liu obtained a Ph.D. Degree in remote sensing from a joint research program hosted by the University of North Carolina at Chapel Hill and Wuhan University.
-While staying at Chapel Hill, he conducted research in [Prof. Conghe Song's group](https://csong.web.unc.edu/dr-chong-liu/) in the Department of Geography. 
-Fetured research publications include 
+Liu obtained a Ph.D. Degree in remote sensing from a joint research program hosted by the University of North Carolina at Chapel Hill (UNC) and Wuhan University.
+While staying at Chapel Hill, he conducted research in [Prof. Conghe Song's group](https://csong.web.unc.edu/dr-chong-liu/) in the Department of Geography of UNC. 
+Liu's fetured research publications, among many others, include 
   - [Detecting impervious surface occurence](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
   - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) 
 
