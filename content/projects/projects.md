@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "On-going Projects"
-subtitle = ""
+subtitle = "Research projects that are active"
 
 [content]
   ## Page type to display. E.g. post, talk, or publication.
