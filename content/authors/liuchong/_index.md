@@ -11,7 +11,7 @@ role: Assitant Professor
 
 # organizations/affiliations
 organizations:
-- name: Boston University
+- name: Sun Yat-Sen University
   url: ""
 
 # short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Remote Sensing
     institution: Wuhan University 
-    year: 2016
+    year: 2015
 
 # social/academic networking
 # for available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +61,7 @@ email: ""
 
 ---
 
-Prof. Chong Liu applies remote sensing techniques to mapping and monitoring the Earth's terrestrial surfaces.
+Prof. Chong Liu applies remote sensing techniques to map and monitor the Earth's terrestrial surfaces.
 He develops remote sensing algorithms that are generalizable to applications from local to global scales.
 Fetured research publications include 
   - [Detecting impervious surface occurence in Nanchang (China)](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
