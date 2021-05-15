@@ -6,7 +6,7 @@ summary: "Estimating cropping cycles with remote sensing and artificial intellig
 authors: [Qi Zhang, Shiqi Tao, Chong Liu]
 tags: [AI for Earth, cropland dynamic, machine learning, remote sensing]
 categories: [Earth Science]
-date: 2020-11-24T20:00:09-05:00
+date: 2021-05-15T12:00:09-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -66,9 +66,7 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 
  <br>
  
-_Authors: Shiqi Tao, Qi Zhang_
- <br>
-_Updated: April 21, 2021_
+_Authors: Shiqi Tao_
  
  <br>
 
