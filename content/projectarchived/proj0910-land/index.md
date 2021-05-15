@@ -2,7 +2,7 @@
 
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Agricultural Landscape & Urbanization (Completed)"
+title: "Agricultural Landscape & Urbanization"
 summary: ""
 authors: [Qi Zhang]
 tags: [agricultural landscape, urbanization, remote sensing, GIS]
@@ -41,4 +41,28 @@ url_video: ""
 slides: ""
 
 ---
+
+During 1994-2003, the Hangzhou metropolitan region (Zhejiang, Southeastern China) has witnessed accelerated urbanization, which was characterized by increases in total population, proportion of non-agriculture population, per capita GDP, and impervious surface area. 
+
+Here, we perofmed multiple endmember spectral mixture analysis (MESMA) examine the spatiotemporal dynamics of agricultural landscapes under urbanization based on Landsat satellite imagies.
+
+We show that agricultural landscapes in this region were converted, fragmented, and isolated, reflected by decreaed total area, increased patch density, and lengthened Euclidean nearest neighbor distance.
+
+
+Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang
+Funding: 
+ - Emerging Talent Project of Zhejiang Province (No. 667140)
+ - National Natural Science Foundation (No.41001202)
+
+<br>
+ 
+_Authors: Qi Zhang_
+ 
+<br>
+
+*Related Links:* <br>
+[Publication: Dynamics of agricultural landscape under urbanization (Zou et al. 2011)](https://doi.org/10.1007/978-3-642-25188-7_58) <br>
+
+<br>
+
 
