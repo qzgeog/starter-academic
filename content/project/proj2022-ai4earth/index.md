@@ -49,11 +49,11 @@ Exports of maize from the U.S., for example, reached as high as 2.4 billion bush
 
 Relying on rich open-accessed satellite imagery data, we have generated classified maps of cropping cycles in 2018 using fused Landsat, Sentinel-2 and MODIS data. The overall accuracy is above 90%. The research project is on-going and will lead to global mapping of cropping cycles covering the conterminous US. 
 
-{{< figure src="phenophase.jpg" title="Crop phenological information revealed by remote sensing data and proved by ground images captured by cameras" >}}
+{{< figure src="phenophase.jpg" title="Crop phenological information revealed by remote sensing data and proved by ground images captured by cameras (Liu et al. 2020)" >}}
 
 We integrate artificial intelligence and remote sensing to automatically estimate annual cropping cycles at a fine spatial resolution (30m) in the conterminous US during 2013-2020. The estimation is made specifically by first optimizing the selection of temporally and spatially stable pixels as training samples and then classifying cropland pixels with information of annual cropping cycle(s) through integrating machine learning algorithms. 
 
-{{< figure src="workflow.jpg" title="Flowchart of estimating pixel-based crop harvesting information" >}}
+{{< figure src="workflow.jpg" title="Flowchart of estimating pixel-based crop harvesting information (by Shiqi Tao)" >}}
 
 We will use advanced machine learning modules to analyze the “surface” of histograms of NDVI difference to select training sample, and then to automatically classify pixels about the information of cropping cycles. 
 
@@ -66,7 +66,7 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 
  <br>
  
-_Qi Zhang, Shiqi Tao_
+_Authors: Shiqi Tao, Qi Zhang_
  <br>
 _April 21, 2021_
  
