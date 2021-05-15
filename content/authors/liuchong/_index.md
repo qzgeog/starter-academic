@@ -64,6 +64,6 @@ email: ""
 Prof. Chong Liu applies remote sensing techniques to map and monitor the Earth's terrestrial surfaces.
 He develops remote sensing algorithms that are generalizable to applications from local to global scales.
 Fetured research publications include 
-  - [Detecting impervious surface occurence in Nanchang (China)](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
+  - [Detecting impervious surface occurence](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
   - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) 
 
