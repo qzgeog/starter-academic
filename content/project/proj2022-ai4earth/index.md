@@ -75,10 +75,5 @@ _April 21, 2021_
 *Related Links:* <br>
 [News in Pardee Center](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
 [Publication: A new framework to map global cropping cycles (Liu et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) <br>
-## Open source data - global cropping cycles] <br>
-## Labeled pixels: Region 1(https://1drv.ms/u/s!AkQ4qLuupxH1bnwZjU4a4iV_g4U?e=mgukMl)
-## Labeled pixels: Region 2(https://1drv.ms/u/s!AkQ4qLuupxH1bYQ4w3cG2qtPaUY?e=LVlUnE)
-## Labeled pixels: Region 3(https://1drv.ms/u/s!AkQ4qLuupxH1bPfalu0Wnma_OVc?e=ulBKLm)
-## Labeled pixels: Region 4(https://1drv.ms/x/s!AkQ4qLuupxH1b0yWtnMVoZ7XpvI?e=YeSqCi)
 
  <br>
