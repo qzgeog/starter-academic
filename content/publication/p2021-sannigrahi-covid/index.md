@@ -12,7 +12,7 @@ authors:
 - Anna Molter
 - Qi Zhang
 - Bidroha Basu
-- Arunima S. Basu
+- Arunima Basu
 - Francesco Pilla
 
 publication_types: 
