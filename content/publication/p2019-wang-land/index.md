@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ying Wang
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 - Qi Zhang
 - Jiangfeng Li
 - Conghe Song
