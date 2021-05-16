@@ -41,6 +41,8 @@ slides: ""
 
 ---
 
+Period: March 2021 - Present
+
 I will travel to several spots of cropland, e.g., corn fields in middel Michigan, to collect data for validating estimated cropping cycles based on satellite images.
 Labeled images are provided by [Prof. Chong Liu](https://www.qzgeog.com/author/chong-liu/)
 
@@ -57,13 +59,14 @@ Funding:
 <br>
  
 _Authors: Qi Zhang_
+<br>
 _Updated: May 15, 2021_
 
 <br>
 
 *Related Links:* <br>
-[Twitter](https://twitter.com/theAAG/status/1367150369021779974) by American Association of Geographers <br>
-Publication: [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
-([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/)) <br>
+- [Twitter](https://twitter.com/theAAG/status/1367150369021779974) by American Association of Geographers <br>
+- Publication: [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
+  ([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/)) <br>
 
 <br>
