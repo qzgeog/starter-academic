@@ -12,7 +12,7 @@ authors:
 - Qirui Li
 - Srikanta Sannigrahi
 - Shiqi Tao
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 - Jiangfeng Li
 - Conghe Song
 
