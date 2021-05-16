@@ -10,14 +10,14 @@ authors:
 - Srikanta Sannigrahi
 - Qi Zhang
 - Francesco Pilla
-- Pawan K. Joshi
+- Pawan Joshi
 - Bidroha Basu
 - Saskia Keesstra
-- Parth S. Roy
+- Parth Roy
 - Ying Wang
-- Paul C. Sutton
+- Paul Sutton
 - Suman Chakraborti
-- Saikat K. Paul
+- Saikat Paul
 - Somnath Sen
 
 publication_types: 
