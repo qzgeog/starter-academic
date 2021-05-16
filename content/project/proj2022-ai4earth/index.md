@@ -66,7 +66,8 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 
  <br>
  
-_Authors: Shiqi Tao_
+_Authors: Shiqi Tao, Qi Zhang_
+_Updated: April 21, 2021_
  
  <br>
 
