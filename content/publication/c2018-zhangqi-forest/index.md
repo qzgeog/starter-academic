@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Qi Zhang
-- Christopher R. Hakkenberg
+- Christopher Hakkenberg
 - Conghe Song
 
 publishDate: '2018-11-24T04:26:15.252090Z'
