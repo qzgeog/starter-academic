@@ -9,15 +9,15 @@ summary: ''
 authors:
 - Srikanta Sannigrahi
 - Qi Zhang
-- Pawan K. Joshi
-- Paul C. Sutton
+- Pawan Joshi
+- Paul Sutton
 - Saskia Keesstra
-- Parth S. Roy
+- Parth Roy
 - Francesco Pilla
 - Bidroha Basu
 - Ying Wang
 - Shouvik Jha
-- Saikat K. Paul
+- Saikat Paul
 - Somnath Sen
 
 publication_types: 
