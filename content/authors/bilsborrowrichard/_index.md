@@ -1,7 +1,7 @@
 ---
 
 # display name
-title: Richard E. Bilsborrow
+title: Richard Bilsborrow
 
 # is this the primary user of the site?
 superuser: false
@@ -12,7 +12,7 @@ role: Research Professor
 # organizations/affiliations
 organizations:
 - name: Carolina Population Center, University of North Carolina at Chapel Hill
-  url: ""
+  url: "https://www.cpc.unc.edu/"
 
 # short bio (displayed in user profile at end of posts)
 bio: economist-demographer
