@@ -10,7 +10,7 @@ authors:
 - Pamela Jagger
 - Conghe Song
 - Qi Zhang
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 
 publication_types:
 - '2'
