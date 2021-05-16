@@ -11,11 +11,11 @@ role: Research Professor
 
 # organizations/affiliations
 organizations:
-- name: Carolina Population Center, University of North Carolina
+- name: Carolina Population Center, University of North Carolina at Chapel Hill
   url: ""
 
 # short bio (displayed in user profile at end of posts)
-bio: economist-demographers 
+bio: economist-demographer
 
 interests:
 - demography
