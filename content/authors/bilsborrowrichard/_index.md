@@ -1,7 +1,7 @@
 ---
 
 # display name
-title: Richard E Bilsborrow
+title: Richard Bilsborrow
 
 # is this the primary user of the site?
 superuser: false
