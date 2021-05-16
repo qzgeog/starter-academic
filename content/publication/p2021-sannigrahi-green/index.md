@@ -1,4 +1,5 @@
 ---
+
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Examining the effects of green revolution led agricultural expansion 
@@ -53,3 +54,5 @@ image:
 projects: []
 
 ---
+
+
