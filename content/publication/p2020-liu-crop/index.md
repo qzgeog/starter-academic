@@ -23,7 +23,7 @@ authors:
 - Emmanuel Rukundo
 - Wenjun Liu
 - José Bofana
-- Awetahegn N. Beyene
+- Awetahegn Beyene
 - Abdelrazek Elnashar
 
 publication_types: 
