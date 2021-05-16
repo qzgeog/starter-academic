@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Qi Zhang
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 - Conghe Song
 - Shiqi Tao
 - Qingfeng Huang
