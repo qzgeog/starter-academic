@@ -68,7 +68,8 @@ Bilsborrow has been working extensively with UN organizations, USAID, environmen
 His recent research on land use and demographic dynamics in China can be featured by the following items:
   - [Labor out-migration, forest recovery, & Payments for Ecosystems Services](https://doi.org/10.1016/j.ecoser.2020.101167)
     ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
-  - [Grain-to-Green Program & Forest Ecological Benefit Compensation Fund (Yost et al. 2020)](https://doi.org/10.1016/j.ecolecon.2019.106509)
+  - [Grain-to-Green Program & Forest Ecological Benefit Compensation Fund](https://doi.org/10.1016/j.ecolecon.2019.106509)
+    (Yost et al. 2020)](https://doi.org/10.1016/j.ecolecon.2019.106509)
   - [Household livelihoods, income inequality, & forest conservation policies](https://doi.org/10.1016/j.ecolecon.2019.02.019)
     ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
   - [Rural-to-urban migration & forest conservation policies](https://doi.org/10.1007/s11111-018-0307-5)
