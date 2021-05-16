@@ -10,7 +10,7 @@ authors:
 - Qi Zhang
 - Ying Wang
 - Shiqi Tao
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 - Tong Qiu
 - Chong Liu
 - Srikanta Sannigrahi
