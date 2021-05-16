@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Conghe Song
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 - Pamela Jagger
 - Qi Zhang
 - Xiaodong Chen
