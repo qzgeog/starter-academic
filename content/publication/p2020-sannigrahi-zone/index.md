@@ -12,12 +12,12 @@ authors:
 - Arunima Sarkar Basu
 - Qi Zhang
 - Ying Wang
-- Pawan K. Joshi
+- Pawan Joshi
 - Suman Chakraborti
 - Luca Coscieme
 - Saskia Keesstra
-- Parth S. Roy
-- Paul C. Sutton
+- Parth Roy
+- Paul Sutton
 
 publication_types:
 - '2'
