@@ -48,3 +48,10 @@ image:
 projects: []
 
 ---
+
+This article contributes to the Special Issue "Mountain landscapes: protected areas, ecosystem services and future challenges"
+edited by [Uta Schirpke](https://www.researchgate.net/profile/Uta-Schirpke), Genxu Wang, and Emilio Padoa-Schioppa
+
+
+
+
