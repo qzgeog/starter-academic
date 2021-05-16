@@ -10,17 +10,17 @@ authors:
 - Srikanta Sannigrahi
 - Francesco Pilla
 - Bidroha Basu
-- Arunima S. Basu
+- Arunima Basu
 - Konika Sarkar
 - Suman Chakraborti
-- Pawan K. Joshi
+- Pawan Joshi
 - Qi Zhang
 - Ying Wang
 - Sandeep Bhatt
 - Anand Bhatt
 - Shouvik Jha
 - Saskia Keesstra
-- Parth S. Roy
+- Parth Roy
 
 publication_types:
 - '2'
