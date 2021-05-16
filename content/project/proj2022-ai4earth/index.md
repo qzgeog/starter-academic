@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cropland Dynamics"
+title: "Cropland Dynamics (Microsoft AI for Earth)"
 summary: "Estimating cropping cycles with remote sensing and artificial intelligence"
 authors: [Qi Zhang, Shiqi Tao, Chong Liu]
 tags: [AI for Earth, cropland dynamic, machine learning, remote sensing]
@@ -64,8 +64,12 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 {{< figure src="fig3estimates.png" title="Figure 3. Maps of stable pixels and classified cropping cycles" >}}
 
 
- <br>
- 
+<br>
+
+Funding:
+- Microsoft AI for Earth Azure Computing Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
+
+
 _Authors: Shiqi Tao, Qi Zhang_
 _Updated: April 21, 2021_
  
