@@ -54,8 +54,8 @@ We show that agricultural landscapes in this region were converted, fragmented, 
 Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang 
 
 Funding: 
- - Emerging Talent Project of Zhejiang Province (No. 667140), recipient: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/)
- - National Natural Science Foundation (No. 41001202), recipient: Yuan Zhang
+ - Emerging Talent Project of Zhejiang Province (No. 667140), PI: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/)
+ - National Natural Science Foundation (No. 41001202), PI: Yuan Zhang
 
 <br>
 
