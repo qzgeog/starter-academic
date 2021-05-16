@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Xiaodong Chen
 - Qi Zhang
-- M. Nils Peterson
+- Nils Peterson
 - Conghe Song
 
 publication_types:
