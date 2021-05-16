@@ -32,9 +32,6 @@ education:
   - course: M.A. in Economics
     institution: University of Michigan
     year: 1966
-  - course: B.A. in Economics
-    institution: Carleton College
-    year: 1963
     
 # social/academic networking
 # for available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,7 +62,7 @@ email: ""
 Prof. [Richard Bilsborrow](https://www.cpc.unc.edu/people/fellows/richard-e-bilsborrow/) is an economist-demographer
 with research interests in population and development in developing countries.
 Bilsborrow has been working extensively with UN organizations, USAID, environmental NGOs, and governments of developing countries.
-His recent research on land use and demographic dynamics in China can be featured by the following items:
+His recent research on land use and demographic dynamics in China can be featured by the following items: 
   - [Labor out-migration, forest recovery, & Payments for Ecosystems Services](https://doi.org/10.1016/j.ecoser.2020.101167)
     ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
   - [Grain-to-Green Program & Forest Ecological Benefit Compensation Fund](https://doi.org/10.1016/j.ecolecon.2019.106509)
