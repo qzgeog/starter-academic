@@ -50,9 +50,10 @@ projects: []
 ---
 
 This article contributes to the Special Issue "Mountain landscapes: protected areas, ecosystem services and future challenges"
-edited by [Uta Schirpke](https://www.researchgate.net/profile/Uta-Schirpke), Genxu Wang, and Emilio Padoa-Schioppa
+edited by [Uta Schirpke](https://www.researchgate.net/profile/Uta-Schirpke), Genxu Wang, and Emilio Padoa-Schioppa <br>
 <br>
-The [Editorial](https://doi.org/10.1016/j.ecoser.2021.101302) of summary is provided in [Ecosystem Services](https://www.sciencedirect.com/journal/ecosystem-services).  
+The [Editorial](https://doi.org/10.1016/j.ecoser.2021.101302) of the special issue on summary is provided in
+[Ecosystem Services](https://www.sciencedirect.com/journal/ecosystem-services). <br> 
 
 <br>
 _Author: Qi Zhang_
