@@ -8,10 +8,10 @@ summary: ''
 authors:
 - Ying Wang
 - Qi Zhang
-- Richard E. Bilsborrow
+- Richard Bilsborrow
 - Shiqi Tao
 - Xiaodong Chen
-- Kira A. Sullivan-Wiley
+- Kira Sullivan-Wiley
 - Qingfeng Huang
 - Jiangfeng Li
 - Conghe Song
