@@ -61,13 +61,14 @@ Funding:
 
 
 _Authors: Qi Zhang_
+_Updated: June 2010_
  
 <br>
 
 *Related Links:* <br>
 - Publication: [Dynamics of agricultural landscape under urbanization](https://doi.org/10.1007/978-3-642-25188-7_58)
-  [(Zou et al. 2011)](https://www.qzgeog.com/publication/c2011-zou-landscape/) <br>
-- Notice: [Completed projects](http://hjxy.zjgsu.edu.cn/uploadfiles/Files/2012-9-19/20129199484993212.pdf)
+  ([Zou et al. 2011](https://www.qzgeog.com/publication/c2011-zou-landscape/)) <br>
+- Notice of [completed projects](http://hjxy.zjgsu.edu.cn/uploadfiles/Files/2012-9-19/20129199484993212.pdf)
 
 <br>
 
