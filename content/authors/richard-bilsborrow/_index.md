@@ -53,4 +53,17 @@ email: ""
 
 ---
 
-Prof. Richard Bilsborrow is an economist-demographer with a long career of experience in population and development research in developing countries.
+Prof. [Richard Bilsborrow](https://www.cpc.unc.edu/people/fellows/richard-e-bilsborrow/) is an economist-demographer
+with research interests in population and development in developing countries.
+<br>
+His recent collaborating research in China include:
+- [Payments for ecosystem services, labor migration, and forest dynamics](https://doi.org/10.1016/j.ecoser.2020.101167)
+  ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
+- [Grain-to-green program & forest ecological benefit compensation](https://doi.org/10.1016/j.ecolecon.2019.106509)
+  ([Yost et al. 2020](https://doi.org/10.1016/j.ecolecon.2019.106509))
+- [Household livelihoods, income inequality, & forest policy](https://doi.org/10.1016/j.ecolecon.2019.02.019)
+  ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
+- [Labor migration & forest policy](https://doi.org/10.1007/s11111-018-0307-5)
+  ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
+
+
