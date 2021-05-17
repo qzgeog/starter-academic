@@ -57,15 +57,17 @@ The [Editorial](https://doi.org/10.1016/j.ecoser.2021.101302) of the special iss
 
 <br>
 
-**Abstract** <br>
+**Abstract**<br>
+
 China’s Conversion of Cropland to Forest Program (CCFP) is one of the world’s largest Payments for Ecosystem Services (PES) programs.
 Its socioeconomic-ecological effects are of great interest to both scholars and policy-makers.
-However, little is known about how the socioeconomic-ecological outcomes of CCFP differ across geographic regions. <br>
+However, little is known about how the socioeconomic-ecological outcomes of CCFP differ across geographic regions.<br>
+
 This study integrates household survey data, satellite imagery, and statistical models to examine labor migration and forest dynamics under CCFP.
 The investigation is carried out at two mountainous sites with distinct biophysical and socioeconomic conditions, one in a subtropical mountainous region (Anhui) and the other in the semi-arid Loess Plateau (Shanxi).
 - We found divergent CCFP outcomes on migration behavior, stimulating both local- and distant-migration in the Anhui site while discouraging distant-migration in the Shanxi site, after controlling for factors at the individual, household, community and regional levels.
 - Forest recovery is positively associated with distant-migration in Anhui but with local-migration in Shanxi.
-- Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability. <br>
+- Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability.<br>
 Regional differences should therefore be taken into account in the design of future large-scale PES programs.
 
 <br>
