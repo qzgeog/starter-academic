@@ -62,10 +62,14 @@ email: ""
 
 Ms. [Shiqi Tao](https://scholar.google.com/citations?user=yGQsEs0AAAAJ) is a Doctoral Student in the Graduate School of Geography at Clark University. 
 She applies remote sensing and artifical intelligence to understand forest cover change under human and natural impacts.
+
 <br>
+
 Her recent research focuses on mapping solar panel farms and associated forest cover change in Massachusetts (United States) based on satellite observations,
 in collaboration with her doctoral advisor, Prof. [John Rogan](http://www2.clarku.edu/faculty/facultybio.cfm?id=460), at Clark University.
+
 <br>
+
 News media report on her work include:
 - [Spectrum News 1](https://spectrumnews1.com/ma/worcester/news/2021/04/28/clark-solar-panels-study) news networks
 - [Milford Daily News](https://amp.milforddailynews.com/amp/4937757001) newspaper
