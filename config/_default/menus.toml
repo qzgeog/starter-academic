@@ -8,10 +8,10 @@
   url  = "#about" # Widget Page folder name
   weight = 10     # Position of the link in the navigation bar
   
-[[main]]
-  name = "People"
-  url  = "authors/"
-  weight = 20
+# [[main]]
+#   name = "People"
+#   url  = "authors/"
+#   weight = 20
   
 [[main]]
   name = "Projects"
