@@ -37,18 +37,18 @@ social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: mailto:qz@bu.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/chongliuwhu
-- icon: researchgate
-  icon_pack: fab
-  link: https://www.researchgate.net/profile/Chong-Liu-19
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/chong-liu-4687a769/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XGze8wEAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/chong-liu-4687a769/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Chong-Liu-19
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/chongliuwhu
 
 # link to a PDF of your resume/CV from the About widget.
 # to enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
