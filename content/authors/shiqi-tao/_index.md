@@ -65,8 +65,8 @@ She applies remote sensing and artifical intelligence to understand forest cover
 
 <br>
 
-Her recent research focuses on mapping solar panel farms and associated forest cover change in Massachusetts (United States) based on satellite observations,
-in collaboration with her doctoral advisor, Prof. [John Rogan](http://www2.clarku.edu/faculty/facultybio.cfm?id=460), at Clark University.
+Her recent research focuses on mapping solar panel farms and associated forest cover change in Massachusetts (United States) based on satellite observations
+in collaboration with her doctoral advisor Prof. [John Rogan](http://www2.clarku.edu/faculty/facultybio.cfm?id=460) at Clark University.
 
 <br>
 
