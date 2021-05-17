@@ -69,6 +69,7 @@ The investigation is carried out at two mountainous sites with distinct biophysi
 - Forest recovery is positively associated with distant-migration in Anhui but with local-migration in Shanxi.
 - Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability.
 <br>
+
 Regional differences should therefore be taken into account in the design of future large-scale PES programs.
 
 <br>
