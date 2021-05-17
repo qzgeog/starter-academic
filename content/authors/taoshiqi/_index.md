@@ -44,7 +44,7 @@ social:
   link: https://twitter.com/shi7tao
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=yGQsEs0AAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=yGQsEs0AAAAJ
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Shiqi-Tao
