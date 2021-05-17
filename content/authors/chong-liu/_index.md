@@ -67,5 +67,8 @@ Liu obtained a Ph.D. Degree in remote sensing from a joint research program host
 While staying at Chapel Hill, he conducted research in Prof. Conghe Song's [group](https://csong.web.unc.edu/dr-chong-liu/) in the Department of Geography of UNC. 
 Liu's fetured research publications, among many others, include 
   - [Detecting impervious surface occurence](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
-  - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) 
+    in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment)
+  - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
+    in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment)
+
 
