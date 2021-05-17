@@ -3,6 +3,9 @@
 # display name
 title: Shiqi Tao
 
+# set user group
+user_groups: ['Collaborators']
+
 # is this the primary user of the site?
 superuser: false
 
