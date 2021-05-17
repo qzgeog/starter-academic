@@ -29,13 +29,13 @@ interests:
 # education to show in About widget
 education:
   courses:
-    - course: PhD in Geography
+    - course: Ph.D. in Geography
       institution: University of North Carolina at Chapel Hill
       year: 2017
-    - course: MA in Geography
+    - course: M.A. in Geography
       institution: University of North Carolina at Chapel Hill
       year: 2014
-    - course: BA in Resources and Environment
+    - course: B.A. in Resources and Environment
       institution: Zhejiang University
       year: 2011
 
