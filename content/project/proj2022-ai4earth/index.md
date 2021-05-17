@@ -77,6 +77,7 @@ _Updated: April 21, 2021_
 
 *Related Links:* <br>
 [News in Frederick S. Pardee Center at Boston University](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
-[Publication: Mapping global cropping intensity (Liu et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685) <br>
+[Publication: Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
+([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/))<br>
 
  <br>
