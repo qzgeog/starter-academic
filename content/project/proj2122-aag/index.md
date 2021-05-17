@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cropland Dynamics (AAG Research Grant)"
-summary: "Validating estiamtes of cropping cycles"
+title: "Validating maps of cropland dynamics"
+summary: ""
 authors: [Qi Zhang]
 tags: [AI for Earth, cropland dynamic, geography, machine learning, remote sensing]
 categories: [Earth Science]
