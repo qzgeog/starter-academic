@@ -67,7 +67,8 @@ This study integrates household survey data, satellite imagery, and statistical 
 The investigation is carried out at two mountainous sites with distinct biophysical and socioeconomic conditions, one in a subtropical mountainous region (Anhui) and the other in the semi-arid Loess Plateau (Shanxi).
 - We found divergent CCFP outcomes on migration behavior, stimulating both local- and distant-migration in the Anhui site while discouraging distant-migration in the Shanxi site, after controlling for factors at the individual, household, community and regional levels.
 - Forest recovery is positively associated with distant-migration in Anhui but with local-migration in Shanxi.
-- Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability.<br>
+- Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability.
+<br>
 Regional differences should therefore be taken into account in the design of future large-scale PES programs.
 
 <br>
