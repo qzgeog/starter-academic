@@ -11,8 +11,7 @@ role: Research Scholar
 
 # organizations/aAffiliations to show in About widget
 organizations:
-  - name: Earth & Environment and Frederick S. Pardee Center for
-      the Study of theLonger-Range Future | Boston University
+  - name: Earth & Environment and Frederick S. Pardee Cente | Boston University
     url: http://www.bu.edu/pardee/
 
 # short bio (displayed in user profile at end of posts)
