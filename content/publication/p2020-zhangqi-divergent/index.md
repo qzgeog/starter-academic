@@ -53,7 +53,7 @@ This article contributes to the Special Issue "Mountain landscapes: protected ar
 edited by [Uta Schirpke](https://www.researchgate.net/profile/Uta-Schirpke), Genxu Wang, and Emilio Padoa-Schioppa <br>
 <br>
 The [Editorial](https://doi.org/10.1016/j.ecoser.2021.101302) of the special issue on summary is provided in
-[Ecosystem Services](https://www.sciencedirect.com/journal/ecosystem-services). <br> 
+[_Ecosystem Services_](https://www.sciencedirect.com/journal/ecosystem-services). <br> 
 
 <br>
 
