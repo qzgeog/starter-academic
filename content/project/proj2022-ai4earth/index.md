@@ -67,8 +67,8 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 <br>
 
 Funding:
-- Microsoft AI for Earth Azure Computing Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
-- 
+- [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) Azure Computing Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
+- [American Association of Geographers (AAG)](http://www.aag.org/) Research Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
 
 _Authors: Shiqi Tao, Qi Zhang_
 _Updated: April 21, 2021_
