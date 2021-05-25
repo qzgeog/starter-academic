@@ -215,7 +215,7 @@ plugins_js  = []
   #   0: ""
   #   1: "disqus" (https://disqus.com)
   #   2: "commento" (https://commento.io)
-  provider = 1
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -238,7 +238,7 @@ plugins_js  = []
   #   0: ""
   #   1: "wowchemy"
   #   2: "algolia" (https://www.algolia.com)
-  provider = 1
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -266,7 +266,7 @@ plugins_js  = []
   #   1: "google"
   #   2: "mapnik"
   #   3: "mapbox"
-  provider = 2
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
