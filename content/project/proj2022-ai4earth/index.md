@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mapping cropland dynamics"
-summary: ""
+title: "Cropland Dynamics and Remote Sensing"
+summary: "Mapping continuous cropping cycles over large scales"
 authors: [Qi Zhang, Shiqi Tao, Chong Liu]
 tags: [AI for Earth, cropland dynamic, machine learning, remote sensing]
 categories: [Earth Science]
