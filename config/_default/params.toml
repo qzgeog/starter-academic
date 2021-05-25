@@ -215,7 +215,7 @@ plugins_js  = []
   #   0: ""
   #   1: "disqus" (https://disqus.com)
   #   2: "commento" (https://commento.io)
-  provider = 0
+  provider = 1
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
