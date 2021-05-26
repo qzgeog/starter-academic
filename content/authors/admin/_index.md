@@ -12,7 +12,7 @@ role: Research Scholar
 # organizations/aAffiliations to show in About widget
 organizations:
   - name: Earth & Environment and Frederick S. Pardee Cente | Boston University
-    url: http://www.bu.edu/pardee/
+    url: ""
 
 # short bio (displayed in user profile at end of posts)
 bio: human-environment geographer
@@ -77,7 +77,6 @@ authors:
   - admin
 user_groups:
   - Researchers
-  - Visitors
 
 ---
 
