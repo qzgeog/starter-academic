@@ -71,6 +71,7 @@ Funding:
 - [American Association of Geographers (AAG)](http://www.aag.org/) Research Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
 
 _Authors: Shiqi Tao, Qi Zhang_
+<br>
 _Updated: April 21, 2021_
  
 <br>
