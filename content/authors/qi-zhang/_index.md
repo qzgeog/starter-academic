@@ -72,7 +72,7 @@ email: ""
 
 ---
 
-Dr. [Qi Zhang](www.qzgeog.com) is a geographer with research interests in
+Dr. [Qi Zhang](https://www.qzgeog.com/) is a geographer with research interests in
 coupled human and natural systems, land use change, forest conservation, and household livelihoods.
 He uses spatial data such as satellite observations and socioeconomic data collected from households surveys
 to examine when, where, how and why land use and land cover change. 
