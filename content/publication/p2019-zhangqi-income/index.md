@@ -3,7 +3,7 @@
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Rural household income distribution and inequality in China: 
-  Effects of payments for ecosystem services policies and other factors"
+  Effects of payments for ecosystem services"
 subtitle: ''
 summary: ''
 authors:
