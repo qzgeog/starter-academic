@@ -57,7 +57,7 @@ email: ""
 
 ---
 
-Prof. [Jiaguo Qi](https://geo.msu.edu/directory/qi-jiaguo.html) is the Director in the Department of Geography at Michigan State University.
+Prof. [Jiaguo Qi](https://geo.msu.edu/directory/qi-jiaguo.html) is the Director in the Department of Geography at Michigan State University. 
 His research interest is food-water-energy nexus. 
 <br>
 His research reseach publications include:
