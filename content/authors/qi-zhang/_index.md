@@ -14,11 +14,11 @@ role: Research Scholar
 
 # organizations/affiliations
 organizations:
-- name: BOston University
+- name: Boston University
   url: ""
 
 # short bio (displayed in user profile at end of posts)
-bio: Human-environment geographer. 
+bio: Human-environment geographer
 
 interests:
 - coupled nature and human systems
