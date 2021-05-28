@@ -54,9 +54,9 @@ height = "calc(100vh - 70px)"
   content = "Human-environment interactions among social agents and ecological entities with land system dynamics"
   align = "center"
 
-  overlay_color = "#666"  # An HTML color value.
+  overlay_color = "#333"  # An HTML color value.
   overlay_img = "computer.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
   cta_url = "https://www.qzgeog.com/abm/"
