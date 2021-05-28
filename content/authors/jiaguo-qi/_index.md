@@ -71,8 +71,6 @@ His research reseach publications include:
 <br>
 
 His collaborating research publications include:
-  - [Complex water-energy-food systems in Central Asia](https://doi.org/10.1007/978-3-030-30742-4_5) 
-    ([Qi et al. 2020](https://doi.org/10.1007/978-3-030-30742-4_5))
   - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
     ([Liu et al. 2020](https://doi.org/10.1016/j.rse.2020.112095))
     published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment)
