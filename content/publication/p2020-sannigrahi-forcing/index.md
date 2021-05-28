@@ -2,8 +2,8 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Responses of ecosystem services to natural and anthropogenic forcings: 
-  A spatial regression based assessment in the world's largest mangrove ecosystem"
+title: "Responses of ecosystem services to natural and anthropogenic forcings 
+  in the world's largest mangrove ecosystem"
 subtitle: ''
 summary: ''
 authors:
