@@ -11,7 +11,7 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "600px"
+height = "300px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,7 +23,7 @@ height = "600px"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.05  # Darken the image. Value in range 0-1.
+  overlay_filter = 1  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
   cta_url = "https://www.qzgeog.com/cnh/"
