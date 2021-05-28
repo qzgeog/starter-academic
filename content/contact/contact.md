@@ -1,6 +1,3 @@
-
-
-
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -24,4 +21,5 @@ email_form = 1
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
+
 
