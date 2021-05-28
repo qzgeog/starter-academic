@@ -15,7 +15,7 @@ i_am_a_sponsor = true
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "test_theme"
+theme: "my_theme"
 
 # Enable users to switch between day and night mode?
 day_night = true
