@@ -10,7 +10,7 @@ user_groups: ['Collaborators']
 superuser: false
 
 # role/position
-role: Doctoral Student
+role: Doctoral Student in Geography
 
 # organizations/affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # short bio (displayed in user profile at end of posts)
-bio: forest dynamics, satellite remote sensing, spatial analysis, machine learning, clean energy. 
+bio: Geographer 
 
 interests:
 - artificial intelligence
