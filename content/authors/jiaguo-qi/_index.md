@@ -57,20 +57,24 @@ email: ""
 
 ---
 
-Prof. [Jiaguo Qi](https://geo.msu.edu/directory/qi-jiaguo.html) is the Director in the Department of Geography at Michigan State University. 
-His research interest is food-water-energy nexus. 
+Prof. [Jiaguo Qi](https://geo.msu.edu/directory/qi-jiaguo.html) is the Director of the Department of Geography at Michigan State University. 
+His research interests include food-water-energy nexus and satellite remote sensing. 
+
 <br>
+
 His research reseach publications include:
-- [Complex water-energy-food systems in Central Asia](https://doi.org/10.1007/978-3-030-30742-4_5) 
-  ([Qi et al. 2020](https://doi.org/10.1007/978-3-030-30742-4_5))
-- [Land use change and net primary productivity in the Ili-Balkhash basin](https://doi.org/10.1088/2515-7620/ab5e1f) 
-  ([Qi et al. 2019](https://doi.org/10.1088/2515-7620/ab5e1f))
+  - [Complex water-energy-food systems in Central Asia](https://doi.org/10.1007/978-3-030-30742-4_5) 
+    ([Qi et al. 2020](https://doi.org/10.1007/978-3-030-30742-4_5))
+  - [Land use change and net primary productivity in the Ili-Balkhash basin](https://doi.org/10.1088/2515-7620/ab5e1f) 
+    ([Qi et al. 2019](https://doi.org/10.1088/2515-7620/ab5e1f))
+
 <br>
+
 His collaborating research publications include:
-- [Complex water-energy-food systems in Central Asia](https://doi.org/10.1007/978-3-030-30742-4_5) 
-  ([Qi et al. 2020](https://doi.org/10.1007/978-3-030-30742-4_5))
-- [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
-  ([Liu et al. 2020](https://doi.org/10.1016/j.rse.2020.112095))
-  published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment)
+  - [Complex water-energy-food systems in Central Asia](https://doi.org/10.1007/978-3-030-30742-4_5) 
+    ([Qi et al. 2020](https://doi.org/10.1007/978-3-030-30742-4_5))
+  - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
+    ([Liu et al. 2020](https://doi.org/10.1016/j.rse.2020.112095))
+    published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment)
 
 
