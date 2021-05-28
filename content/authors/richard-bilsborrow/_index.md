@@ -15,7 +15,7 @@ organizations:
   url: "https://www.cpc.unc.edu/"
 
 # short bio (displayed in user profile at end of posts)
-bio: economist 
+bio: Economist-demographer
 
 interests:
 - demography
