@@ -39,13 +39,13 @@ height = "600px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "maize2.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Detailed Info"
-  cta_url = "https://www.qzgeog.com/aiforearth/"
+  cta_url = "https://www.qzgeog.com/project/proj2022-ai4earth/"
   cta_icon_pack = "fab"
   cta_icon = "envira"
 
