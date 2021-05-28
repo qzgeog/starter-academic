@@ -15,7 +15,7 @@ organizations:
   url: ""
 
 # short bio (displayed in user profile at end of posts)
-bio: remote sensing geographer
+bio: Remote sensing geographer
 
 interests:
 - satellite remote sensing
