@@ -2,8 +2,8 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Effects of China’s payment for ecosystem services programs on cropland abandonment:
-  A case study in Tiantangzhai Township, Anhui, China"
+title: "Effects of China’s payment for ecosystem services programs on cropland abandonment
+  in Tianma nature reserve"
 subtitle: ''
 summary: ''
 authors:
