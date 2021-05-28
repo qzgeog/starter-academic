@@ -11,7 +11,7 @@ interval = 4000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "300px"
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -23,7 +23,7 @@ height = "300px"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
   cta_url = "https://www.qzgeog.com/cnh/"
@@ -39,7 +39,7 @@ height = "300px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "maize2.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -56,7 +56,7 @@ height = "300px"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "computer.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
   cta_url = "https://www.qzgeog.com/abm/"
