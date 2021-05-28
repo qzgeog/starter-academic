@@ -2,14 +2,14 @@
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Identification of conservation priority zones using spatially explicit valued
-  ecosystem services: A case from the Indian Sundarbans'
+  ecosystem services in the Indian Sundarbans'
 subtitle: ''
 summary: ''
 authors:
 - Srikanta Sannigrahi
 - Francesco Pilla
 - Bidroha Basu
-- Arunima Sarkar Basu
+- Arunima Basu
 - Qi Zhang
 - Ying Wang
 - Pawan Joshi
