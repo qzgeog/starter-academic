@@ -54,17 +54,16 @@ Overall, natural forests increased by 14% from 2002 to 2013, while the area of c
 Funding:
 - [National Science Foundation](https://www.nsf.gov/), PI: [Conghe Song](https://csong.web.unc.edu/)
 - [Carolina Population Center](http://www.cpc.unc.edu/), PI: [Richard Bilsborrow](https://www.qzgeog.com/author/richard-bilsborrow)
-
-<br>
-
-_Authors: Shiqi Tao, Qi Zhang_
-<br>
-_Updated: May 26, 2021_
  
 <br>
 
 *Related Links:* <br>
 - News report in [UNC Discover](https://www.unc.edu/discover/): [Restoring rural China](https://www.unc.edu/discover/restoring-rural-china/) <br>
 
+<br>
 
- <br>
+_Authors: Shiqi Tao, Qi Zhang_
+<br>
+_Updated: May 26, 2021_
+
+
