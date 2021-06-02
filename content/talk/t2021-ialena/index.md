@@ -67,3 +67,11 @@ slides: ""
 projects: []
 
 ---
+
+Related publications
+- [Payments for ecosystem services, labor migration, and forest dynamics](https://doi.org/10.1016/j.ecoser.2020.101167)
+  ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
+
+
+
+
