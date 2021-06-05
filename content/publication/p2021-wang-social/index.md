@@ -26,6 +26,7 @@ doi:
 
 categories: [Coupled Nature-Human]
 tags: [payments for ecosystem services, forest policy, agent-based modeling, social-ecological dynamics]
+
 date: '2021-05-26'
 lastmod: 2021-05-26T10:26:13-05:00
 
