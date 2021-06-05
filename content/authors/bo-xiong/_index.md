@@ -57,7 +57,7 @@ He uses geospatial analysis and remote sensing data to understand the process of
 <br>
 
 His recent research focuses on studying deforestation driven by the balance of arable land system policy in Zhejiang (China) 
-in collaboration with her doctoral advisor Prof. [John Rogan](http://www2.clarku.edu/faculty/facultybio.cfm?id=460) at Clark University.
+in collaboration with her doctoral advisor Prof. [Ruishan Chen](https://faculty.ecnu.edu.cn/_s33/crs/main.psp).
 
 <br>
 
