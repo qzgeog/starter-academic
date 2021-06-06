@@ -38,7 +38,7 @@ height = "700px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "maize2.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_img = "slider2maize.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -55,7 +55,7 @@ height = "700px"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "computer.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_img = "slider3computer.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
