@@ -31,8 +31,8 @@ height = "700px"
   cta_icon = "dove"
 
 [[item]]
-  title = "AI for Earth System Dynamics"
-  content = "Cropping cycle estimation"
+  title = "Artificial Intelligence for Earth System Dynamics"
+  content = "Agricultural practices, cropland dynamics, terrestrial surface ..."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
