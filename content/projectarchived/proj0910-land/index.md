@@ -42,8 +42,6 @@ slides: ""
 
 ---
 
-Period: June 2009 - May 2010
-
 During 1994-2003, the Hangzhou metropolitan region (Zhejiang, Southeastern China) has witnessed accelerated urbanization, which was characterized by increases in total population, proportion of non-agriculture population, per capita GDP, and impervious surface area. 
 
 Here, we perofmed multiple endmember spectral mixture analysis (MESMA) examine the spatiotemporal dynamics of agricultural landscapes under urbanization based on Landsat satellite imagies.
@@ -53,15 +51,18 @@ We show that agricultural landscapes in this region were converted, fragmented, 
 {{< figure src="fig1land.jpg" title="Land use/cover patterns of the Hangzhou metropolitan region in 1994 and 2003 (Zou et al. 2020)" >}}
 
 
+<br>
+Period: June 2009 - May 2010
 Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang 
 
+
+<br>
 Funding: 
  - Emerging Talent Project of Zhejiang Province (No. 667140), PI: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/)
  - National Natural Science Foundation of China (No. 41001202), PI: Yuan Zhang
 
 
 <br>
-
 *Related Links:* <br>
 - Publication: [Dynamics of agricultural landscape under urbanization](https://doi.org/10.1007/978-3-642-25188-7_58)
   ([Zou et al. 2011](https://www.qzgeog.com/publication/c2011-zou-landscape/)) <br>
