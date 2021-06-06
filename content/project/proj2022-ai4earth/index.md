@@ -73,7 +73,7 @@ Funding:
 
 <br>
 
-*Related Links:* <br>
+*Related Links:* <br> 
 - [News in Frederick S. Pardee Center at Boston University](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
 - [Twitter](https://twitter.com/theAAG/status/1367150369021779974) by American Association of Geographers <br>
 - Publication: [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
