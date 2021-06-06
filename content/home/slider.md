@@ -22,7 +22,7 @@ height = "700px"
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+  overlay_img = "slider1village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
