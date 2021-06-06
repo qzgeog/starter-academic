@@ -57,22 +57,21 @@ Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang
 
 Funding: 
  - Emerging Talent Project of Zhejiang Province (No. 667140), PI: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/)
- - National Natural Science Foundation (No. 41001202), PI: Yuan Zhang
-
-<br>
+ - National Natural Science Foundation of China (No. 41001202), PI: Yuan Zhang
 
 
-_Authors: Qi Zhang_
-<br>
-_Updated: June 2010_
- 
 <br>
 
 *Related Links:* <br>
 - Publication: [Dynamics of agricultural landscape under urbanization](https://doi.org/10.1007/978-3-642-25188-7_58)
   ([Zou et al. 2011](https://www.qzgeog.com/publication/c2011-zou-landscape/)) <br>
-- Notice of [completed projects](http://hjxy.zjgsu.edu.cn/uploadfiles/Files/2012-9-19/20129199484993212.pdf)
+- Notice of [completed project](http://hjxy.zjgsu.edu.cn/uploadfiles/Files/2012-9-19/20129199484993212.pdf)
+
+
 
 <br>
+_Authors: Qi Zhang_
+<br>
+_Updated: June 2010_
 
 
