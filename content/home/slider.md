@@ -17,16 +17,16 @@ height = "700px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Coupled Natural and Human Systems"
-  content = "Payment for ecosystem services, forest conservation, labor migration, livelihoods, income inequality, ..."
+  title = "Coupled Human and Natural Systems"
+  content = "land use change, forest conservation, labor migration, livelihoods, income inequality ..."
   align = "center"
 
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "village.jpg"  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
-  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   cta_label = "Detailed Info"
-  cta_url = "https://www.qzgeog.com/cnh/"
+  cta_url = "https://www.qzgeog.com/project/proj1318-cnh-cs/"
   cta_icon_pack = "fas"
   cta_icon = "dove"
 
