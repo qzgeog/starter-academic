@@ -21,7 +21,7 @@ height: '700px; background-position:center; background-repeat: no-repeat; backgr
 
 item:
   - title: Coupled Human and Natural Systems
-    content: 'land use change, forest conservation, labor migration, livelihoods, income inequality ...'
+    content: 'land use change, forest conservation, labor migration, livelihoods...'
     align: center  # Choose `center`, `left`, or `right` alignment.
     
     # Overlay a color or image (optional).
@@ -52,7 +52,7 @@ item:
     cta_icon: envira
 
   - title: Agent-Based Modeling
-    content: 'Human-environment interactions among social agents and ecological entities'
+    content: 'Complex interactions among social agents and ecological entities...'
     align: center
     
     overlay_color: '#ECF0F1'  # '#333'
