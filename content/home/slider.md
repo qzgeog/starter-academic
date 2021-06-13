@@ -42,7 +42,7 @@ item:
     content: 'Agricultural practices, cropland dynamics, terrestrial surface ...'
     align: center
     
-    overlay_color: '#666'
+    overlay_color: '#7B7D7D'  # '#666'
     overlay_img: slider2_maize.jpg
     overlay_filter: 0
     
@@ -55,7 +55,7 @@ item:
     content: 'Human-environment interactions among social agents and ecological entities'
     align: center
     
-    overlay_color: '#333'
+    overlay_color: '#ECF0F1'  # '#333'
     overlay_img: slider3_computer.jpg
     overlay_filter: 0
     
