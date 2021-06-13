@@ -26,7 +26,7 @@ item:
     
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#666'  # An HTML color value.
+    overlay_color: '#ECF0F1'  # An HTML color value. '#666'
     overlay_img: slider1_village.jpg  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     
