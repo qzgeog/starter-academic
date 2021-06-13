@@ -27,7 +27,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: slider1village.jpg  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
+    overlay_img: slider1_village.jpg  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     
     # Call to action button (optional).
@@ -43,7 +43,7 @@ item:
     align: center
     
     overlay_color: '#666'
-    overlay_img: slider2maize.jpg
+    overlay_img: slider2_maize.jpg
     overlay_filter: 0
     
     cta_label: Detailed Info
@@ -56,7 +56,7 @@ item:
     align: center
     
     overlay_color: '#333'
-    overlay_img: slider3computer.jpg
+    overlay_img: slider3_computer.jpg
     overlay_filter: 0
     
     cta_label: Detailed Info
