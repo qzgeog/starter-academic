@@ -42,6 +42,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: "Photo by Scott Goodwill on Unsplash"
+  image: "content/project/proj2022-ai4earth/header1_harvest.jpg"
+
 ---
 
 Despite the ambitious goal of achieving hunger and poverty eradication by the United Nations, producing sufficient food to feed the ever-growing human population is facing unprecedented challenges across the globe. Agricultural production needs to double its current size within the next three decades to catch up with the increasing demands. 
