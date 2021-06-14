@@ -3,10 +3,13 @@
 
 title: "Cropland Dynamics and Remote Sensing"
 summary: "Mapping continuous cropping cycles over large scales"
+
 authors: [Qi Zhang, Shiqi Tao, Chong Liu]
 tags: [AI for Earth, cropland dynamic, machine learning, remote sensing]
 categories: [Earth Science]
+
 date: 2021-05-15T12:00:09-05:00
+reading_time: true  # Show estimated reading time?
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -85,3 +88,6 @@ Related Links
 _Authors: Shiqi Tao, Qi Zhang_
 <br>
 _Updated: April 21, 2021_
+<br>
+
+
