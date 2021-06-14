@@ -45,7 +45,7 @@ slides: ""
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Photo by Scott Goodwill on Unsplash"
-  image: "content/project/proj2022-ai4earth/header1_harvest.jpg"
+  image: "header1_harvest.jpg"
 
 ---
 
@@ -65,11 +65,11 @@ We integrate artificial intelligence and remote sensing to automatically estimat
 
 We will use advanced machine learning modules to analyze the “surface” of histograms of NDVI difference to select training sample, and then to automatically classify pixels about the information of cropping cycles. 
 
-{{< figure src="fig1US.png" title="Figure 1. Study Area: the contiguous United States with four selected regions" >}}
+{{< figure src="fig1_US.png" title="Figure 1. Study Area: the contiguous United States with four selected regions" >}}
 
-{{< figure src="fig2alpha.png" title="Figure 2. Illustration of stable pixle labeling with tuning parameters" >}}
+{{< figure src="fig2_alpha.png" title="Figure 2. Illustration of stable pixle labeling with tuning parameters" >}}
 
-{{< figure src="fig3estimates.png" title="Figure 3. Maps of stable pixels and classified cropping cycles" >}}
+{{< figure src="fig3_estimates.png" title="Figure 3. Maps of stable pixels and classified cropping cycles" >}}
 
 
 <br>
