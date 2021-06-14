@@ -3,9 +3,11 @@
 
 title: "Coupled Human and Natural Systems"
 summary: "Understanding complex human-environment interactions..."
+
 authors: [Conghe Song, Richard Bilsborrow, Qi Zhang]
 tags: [human-environment, forest livelihoods, payments for ecosystem services]
 categories: [Coupled Nature-Human]
+
 date: 2013-05-15T12:00:09-05:00
 
 # Optional external URL for project (replaces project detail page).
@@ -39,6 +41,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+# Optional header image
+header:
+  caption: "Photo by Haolan Mao on Unsplash"
+  image: "header1_anhui.jpg"
+
 ---
 
 We establish three new remotely sensed forest development indexes, including the canopy closure index (CCI), the maturity index (MI), and the synergistic successional index (SSI), to quantify remotely sensed forest canopy development characteristics based on pixel proximity to the CCL in the B–G space of the Tasseled Cap transformation. 
@@ -65,5 +72,6 @@ Funding:
 _Authors: Shiqi Tao, Qi Zhang_
 <br>
 _Updated: May 26, 2021_
+<br>
 
 
