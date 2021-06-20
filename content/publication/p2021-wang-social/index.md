@@ -2,8 +2,8 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Role of social networks in building livelihood resilience
-  under payments for ecosystem services in a poor rural community in China'
+title: 'Role of social networks in building household livelihood resilience 
+  under payments for ecosystem services programs in a poor rural community in China'
 subtitle: ''
 summary: ''
 authors:
@@ -22,13 +22,13 @@ publication_types:
 abstract: ''
 publication: '*Journal of Rural Studies*'
 url_pdf: 
-doi: 
+doi: 10.1016/j.jrurstud.2021.05.017
 
 categories: [Coupled Nature-Human]
 tags: [payments for ecosystem services, forest policy, agent-based modeling, social-ecological dynamics]
 
-date: '2021-05-26'
-lastmod: 2021-05-26T10:26:13-05:00
+date: '2021-06-16'
+lastmod: 2021-06-16T10:26:13-05:00
 
 featured: false
 draft: false
