@@ -11,8 +11,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Haolan Mao on Unsplash"
-  image: "Anhuimaohaolan-unsplash.jpg"
+  caption: 
+  image: 
 
 ---
  
