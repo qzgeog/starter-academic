@@ -11,7 +11,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Photo by Scott Goodwill on Unsplash"
-  image: "harvest_scott-goodwill-unsplash.jpg"
+  caption: 
+  image: 
+
 ---
 
