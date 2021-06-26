@@ -49,7 +49,7 @@ social:
 # to enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: bilsborrow-cv-2021.pdf
+  link: content/authors/richard-bilsborrow/bilsborrow-cv-2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -58,7 +58,7 @@ email: ""
 
 Prof. [Richard Bilsborrow](https://www.cpc.unc.edu/people/fellows/richard-e-bilsborrow/) is an economist-demographer
 with research interests in population and development in developing countries. 
-A full list of publications can be find [here](https://www.cpc.unc.edu/resources/publications/?q=Bilsborrow%2C+Richard+E.&sort=ryat). 
+A full list of publications can be found [here](https://www.cpc.unc.edu/resources/publications/?q=Bilsborrow%2C+Richard+E.&sort=ryat). 
 
 <br>
 
