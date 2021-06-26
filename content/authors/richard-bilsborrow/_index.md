@@ -26,6 +26,12 @@ education:
   - course: Ph.D. in Economics
     institution: University of Michigan
     year: 1968
+  - course: M.A. in Economics
+    institution: University of Michigan
+    year: 1966
+  - course: B.A. in Economics (Minor, Mathematics)
+    institution: Carleton College
+    year: 1963
 
 # social/academic networking
 # for available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,9 +47,9 @@ social:
 
 # link to a PDF of your resume/CV from the About widget.
 # to enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: bilsborrow-cv-2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -51,16 +57,19 @@ email: ""
 ---
 
 Prof. [Richard Bilsborrow](https://www.cpc.unc.edu/people/fellows/richard-e-bilsborrow/) is an economist-demographer
-with research interests in population and development in developing countries.
+with research interests in population and development in developing countries. 
+A full list of publications can be find [here](https://www.cpc.unc.edu/resources/publications/?q=Bilsborrow%2C+Richard+E.&sort=ryat). 
+
 <br>
+
 His recent collaborating research in China include:
-- [Payments for ecosystem services, labor migration, and forest dynamics](https://doi.org/10.1016/j.ecoser.2020.101167)
+- Payments for ecosystem services, labor migration, and forest dynamics
   ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
-- [Grain-to-green program & forest ecological benefit compensation](https://doi.org/10.1016/j.ecolecon.2019.106509)
+- Grain-to-green program & forest ecological benefit compensation
   ([Yost et al. 2020](https://doi.org/10.1016/j.ecolecon.2019.106509))
-- [Household livelihoods, income inequality, & forest policy](https://doi.org/10.1016/j.ecolecon.2019.02.019)
+- Household livelihoods, income inequality, & forest policy
   ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
-- [Labor migration & forest policy](https://doi.org/10.1007/s11111-018-0307-5)
+- Labor migration & forest policy
   ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
 
 
