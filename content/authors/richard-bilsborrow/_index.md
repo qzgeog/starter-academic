@@ -49,7 +49,7 @@ social:
 # to enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: bilsborrow-cv-2021.pdf
+  link: files/bilsborrow-cv-2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
