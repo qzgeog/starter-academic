@@ -63,15 +63,14 @@ to understand how land surface is changing, why it is changing and what the asso
 <br>
 
 His recent research publications on coupled human and natural systems (CHANS) include:
-- [Labor migration and forest dynamics under payments for ecosystem services](https://doi.org/10.1016/j.ecoser.2020.101167)
-  ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
-- [Household livelihoods and income inequality under forest policies](https://doi.org/10.1016/j.ecolecon.2019.02.019)
-  ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
-- [Labor migration and forest conservation](https://doi.org/10.1007/s11111-018-0307-5)
-  ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
-- [cropland abandonment and forest conservation](https://doi.org/10.1016/j.landusepol.2018.01.001)
-  ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-cropland/))
-- [Evaluating conservation with remote sensing observations](https://doi.org/10.1016/B978-0-12-409548-9.10435-X)
-  ([Zhang et al. 2018](https://www.qzgeog.com/publication/c2018-zhangqi-forest/))
+- Labor migration and forest dynamics under payments for ecosystem services ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
+- Household livelihoods and income inequality under forest policies ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
+- Labor migration and forest conservation ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
+- Cropland abandonment and forest conservation ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-cropland/))
+- Energy use under forest policies ([Song et al. 2018](https://doi.org/10.1016/j.ecolecon.2017.08.028))
+- Evaluating conservation with remote sensing observations ([Zhang et al. 2018](https://www.qzgeog.com/publication/c2018-zhangqi-forest/))
+- Comparative analysis of forest sustainability ([Song et al. 2014](https://doi.org/10.1016/j.forpol.2013.08.012))
+
+<br>
 
 
