@@ -14,8 +14,7 @@ role: Doctoral Student
 
 # organizations/affiliations
 organizations:
-- name: Graduate School of Geography
-  Clark University
+- name: School of Geography, Clark University
   url: "https://www.clarku.edu/departments/geography/"
 
 # short bio (displayed in user profile at end of posts)
