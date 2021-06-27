@@ -63,8 +63,8 @@ email: ""
 
 Prof. [Chong Liu](https://scholar.google.com/citations?user=XGze8wEAAAAJ) applies remote sensing techniques to map and monitor the Earth's terrestrial surfaces.
 He develops remote sensing algorithms that are generalizable to applications from local to global scales. 
-
 <br>
+
 Liu obtained a Ph.D. Degree in remote sensing from a joint research program hosted by the University of North Carolina at Chapel Hill (UNC) and Wuhan University.
 While staying at Chapel Hill, he conducted research in Prof. [Conghe Song](https://csong.web.unc.edu/)'s group in the Department of Geography of UNC. 
 
