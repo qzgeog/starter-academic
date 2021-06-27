@@ -24,6 +24,7 @@ interests:
 - artificial intelligence
 - remote sensing
 - forest conservation
+- geographic information
 
 education:
   courses:
@@ -73,7 +74,7 @@ in collaboration with her doctoral advisor Prof. [John Rogan](http://www2.clarku
 
 <br>
 
-News media report on her work include:
+News media report on her research work include:
 - [Spectrum News 1](https://spectrumnews1.com/ma/worcester/news/2021/04/28/clark-solar-panels-study) news networks
 - [Milford Daily News](https://amp.milforddailynews.com/amp/4937757001) newspaper
 
