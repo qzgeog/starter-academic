@@ -14,8 +14,8 @@ role: Professor
 
 # organizations/affiliations
 organizations:
-- name: Michigan State University
-  url: ""
+- name: Center for Global Change & Earth Observations, Michigan State University
+  url: "http://globalchange.msu.edu/"
 
 # short bio (displayed in user profile at end of posts)
 bio: Remote sensing geographer 
