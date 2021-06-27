@@ -14,8 +14,8 @@ role: Doctoral Student
 
 # organizations/affiliations
 organizations:
-- name: Clark University
-  url: ""
+- name: Graduate School of Geography, Clark University
+  url: "https://www.clarku.edu/departments/geography/"
 
 # short bio (displayed in user profile at end of posts)
 bio: Geographer 
@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: MS in Geography
+  - course: M.S. in Geography
     institution: Michigan State University
     year: 2019
-  - course: BS in GIS
+  - course: B.S. in Geographic Information Science
     institution: Chengdu University of Technology
     year: 2016
 
@@ -76,5 +76,8 @@ in collaboration with her doctoral advisor Prof. [John Rogan](http://www2.clarku
 News media report on her work include:
 - [Spectrum News 1](https://spectrumnews1.com/ma/worcester/news/2021/04/28/clark-solar-panels-study) news networks
 - [Milford Daily News](https://amp.milforddailynews.com/amp/4937757001) newspaper
+
+<br>
+
 
 
