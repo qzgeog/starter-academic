@@ -63,14 +63,10 @@ A full list of publications can be found [here](https://www.cpc.unc.edu/resource
 <br>
 
 His recent collaborating research in China include:
-- Payments for ecosystem services, labor migration, and forest dynamics
-  ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
-- Grain-to-green program & forest ecological benefit compensation
-  ([Yost et al. 2020](https://doi.org/10.1016/j.ecolecon.2019.106509))
-- Household livelihoods, income inequality, & forest policy
-  ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
-- Labor migration & forest policy
-  ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
+- Conservation policies, labor migration, and forest dynamics ([Zhang et al. 2020](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/))
+- Grain-to-green program & forest ecological benefit compensation ([Yost et al. 2020](https://doi.org/10.1016/j.ecolecon.2019.106509))
+- Household livelihoods, income inequality, & forest policy ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
+- Labor migration & forest policy ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
 
 <br>
 
