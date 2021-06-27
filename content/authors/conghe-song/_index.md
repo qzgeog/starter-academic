@@ -57,9 +57,10 @@ email: ""
 
 Prof. [Conghe Song](https://csong.web.unc.edu/) is a full professor in the [Department of Geography](https://geography.unc.edu/)
 and a faculty fellow in the [Carolina Population Center](https://www.cpc.unc.edu/people/fellows/conghe-song/) at the University of North Carolina at Chapel Hill. 
+<br>
+
 He conducts research with remotely sensed data, household surveys, and ecological models
 to understand how land surface is changing, why it is changing and what the associated social-ecological consequences of these changes are. 
-
 <br>
 
 His recent research publications on coupled human and natural systems (CHANS) include:
@@ -70,7 +71,6 @@ His recent research publications on coupled human and natural systems (CHANS) in
 - Energy use under forest policies ([Song et al. 2018](https://doi.org/10.1016/j.ecolecon.2017.08.028))
 - Evaluating conservation with remote sensing observations ([Zhang et al. 2018](https://www.qzgeog.com/publication/c2018-zhangqi-forest/))
 - Comparative analysis of forest sustainability ([Song et al. 2014](https://doi.org/10.1016/j.forpol.2013.08.012))
-
 <br>
 
 
