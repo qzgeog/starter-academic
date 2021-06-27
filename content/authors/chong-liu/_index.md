@@ -12,7 +12,7 @@ role: Assitant Professor
 # organizations/affiliations
 organizations:
 - name: Sun Yat-Sen University
-  url: ""
+  url: "http://www.sysu.edu.cn/"
 
 # short bio (displayed in user profile at end of posts)
 bio: Remote sensing geographer
@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Remote Sensing
+  - course: Ph.D. in Remote Sensing
     institution: University of North Carolina at Chapel Hill & Wuhan University
     year: 2015
 
@@ -63,12 +63,20 @@ email: ""
 
 Prof. [Chong Liu](https://scholar.google.com/citations?user=XGze8wEAAAAJ) applies remote sensing techniques to map and monitor the Earth's terrestrial surfaces.
 He develops remote sensing algorithms that are generalizable to applications from local to global scales. 
+
+<br>
 Liu obtained a Ph.D. Degree in remote sensing from a joint research program hosted by the University of North Carolina at Chapel Hill (UNC) and Wuhan University.
 While staying at Chapel Hill, he conducted research in Prof. [Conghe Song](https://csong.web.unc.edu/)'s group in the Department of Geography of UNC. 
+
+<br>
+
 Liu's fetured research publications, among many others, include:
 - [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
   published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment) in 2020
 - [Detecting impervious surface occurence](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
   published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment) in 2019
+
+<br>
+
 
 
