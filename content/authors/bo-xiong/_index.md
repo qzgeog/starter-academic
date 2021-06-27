@@ -53,18 +53,15 @@ email: ""
 
 Mr. [Bo Xiong](https://www.researchgate.net/profile/Bo_Xiong17) is a Doctoral Candidate in the School of Geographical Sciences at East China Normal University. 
 He uses geospatial analysis and remote sensing data to understand the process of deforestation and its driving factors.
-
 <br>
 
 His research focuses on studying deforestation driven by the balance of arable land system policy in Zhejiang (China) 
 in collaboration with his doctoral advisor Prof. [Ruishan Chen](https://faculty.ecnu.edu.cn/_s33/crs/main.psp).
-
 <br>
 
 His recent publications include:
 - [Large-scale deforestation during the 21st century in Zhejiang (China)](https://doi.org/10.1002/ldr.3563)
-  published in [_Land Degradation & Development_](https://onlinelibrary.wiley.com/journal/1099145x)
-
+  published in [_Land Degradation & Development_](https://onlinelibrary.wiley.com/journal/1099145x) in 2020
 <br>
 
 
