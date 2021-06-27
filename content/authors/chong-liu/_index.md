@@ -67,7 +67,6 @@ He develops remote sensing algorithms that are generalizable to applications fro
 
 Liu obtained a Ph.D. Degree in remote sensing from a joint research program hosted by the University of North Carolina at Chapel Hill (UNC) and Wuhan University.
 While staying at Chapel Hill, he conducted research in Prof. [Conghe Song](https://csong.web.unc.edu/)'s group in the Department of Geography of UNC. 
-
 <br>
 
 Liu's fetured research publications, among many others, include:
@@ -75,7 +74,6 @@ Liu's fetured research publications, among many others, include:
   published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment) in 2020
 - [Detecting impervious surface occurence](https://www.sciencedirect.com/science/article/pii/S0034425719301762)
   published in [_Remote Sensing of Environment_](https://www.journals.elsevier.com/remote-sensing-of-environment) in 2019
-
 <br>
 
 
