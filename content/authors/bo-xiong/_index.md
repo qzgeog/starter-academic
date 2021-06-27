@@ -60,7 +60,7 @@ in collaboration with his doctoral advisor Prof. [Ruishan Chen](https://faculty.
 <br>
 
 His recent publications include:
-- [Large-scale deforestation during the 21st century in Zhejiang (China)](https://doi.org/10.1002/ldr.3563)
+- [Deforestation in Zhejiang (China)](https://doi.org/10.1002/ldr.3563)
   published in [_Land Degradation & Development_](https://onlinelibrary.wiley.com/journal/1099145x) in 2020
 <br>
 
