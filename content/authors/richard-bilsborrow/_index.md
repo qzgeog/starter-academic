@@ -58,8 +58,6 @@ email: ""
 
 Prof. [Richard Bilsborrow](https://www.cpc.unc.edu/people/fellows/richard-e-bilsborrow/) is an economist-demographer
 with research interests in population and development in developing countries. 
-A full list of publications can be found [here](https://www.cpc.unc.edu/resources/publications/?q=Bilsborrow%2C+Richard+E.&sort=ryat). 
-
 <br>
 
 His recent collaborating research in China include:
@@ -67,8 +65,9 @@ His recent collaborating research in China include:
 - Grain-to-green program & forest ecological benefit compensation ([Yost et al. 2020](https://doi.org/10.1016/j.ecolecon.2019.106509))
 - Household livelihoods, income inequality, & forest policy ([Zhang et al. 2019](https://www.qzgeog.com/publication/p2019-zhangqi-income/))
 - Labor migration & forest policy ([Zhang et al. 2018](https://www.qzgeog.com/publication/p2018-zhangqi-migration/))
-
 <br>
 
+A full list of publications can be found [here](https://www.cpc.unc.edu/resources/publications/?q=Bilsborrow%2C+Richard+E.&sort=ryat). 
+<br>
 
 
