@@ -57,7 +57,7 @@ Exports of maize from the U.S., for example, reached as high as 2.4 billion bush
 
 Relying on rich open-accessed satellite imagery data, we have generated classified maps of cropping cycles in 2018 using fused Landsat, Sentinel-2 and MODIS data. The overall accuracy is above 90%. The research project is on-going and will lead to global mapping of cropping cycles covering the conterminous US. 
 
-{{< figure src="phenophase.jpg" title="Crop phenological information revealed by remote sensing data and proved by ground images captured by cameras (Liu et al. 2020)" >}}
+{{< figure src="phenophase.jpg" title="Crop phenological information revealed by remote sensing data and proved by ground images captured by cameras ([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/))" >}}
 
 We integrate artificial intelligence and remote sensing to automatically estimate annual cropping cycles at a fine spatial resolution (30m) in the conterminous US during 2013-2020. The estimation is made specifically by first optimizing the selection of temporally and spatially stable pixels as training samples and then classifying cropland pixels with information of annual cropping cycle(s) through integrating machine learning algorithms. 
 
@@ -70,29 +70,31 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 {{< figure src="fig2_alpha.png" title="Figure 2. Illustration of stable pixle labeling with tuning parameters" >}}
 
 {{< figure src="fig3_estimates.png" title="Figure 3. Maps of stable pixels and classified cropping cycles" >}}
-
-
 <br>
 
 Funding
 - [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) Azure Computing Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
 - [American Association of Geographers (AAG)](http://www.aag.org/) Research Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
+<br>
 
+Publications
+- [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
+  ([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/))
+<br>
 
 <br>
 
 Related Links
 - [News in Frederick S. Pardee Center at Boston University](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
 - [Twitter](https://twitter.com/theAAG/status/1367150369021779974) by American Association of Geographers <br>
-- Publication: [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
-  ([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/)) <br>
+<br>
 
-
+<br>
+<br>
 <br>
 
 _Authors: Shiqi Tao, Qi Zhang_
 <br>
 _Updated: April 21, 2021_
-<br>
 
 
