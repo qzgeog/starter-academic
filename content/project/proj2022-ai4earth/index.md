@@ -1,14 +1,14 @@
 ---
+
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cropland Dynamics and Remote Sensing"
 summary: "Mapping continuous cropping cycles over large scales"
-
 authors: [Qi Zhang, Shiqi Tao, Chong Liu]
 tags: [AI for Earth, cropland dynamic, machine learning, remote sensing]
 categories: [Earth Science]
-
 date: 2021-05-15T12:00:09-05:00
+
 reading_time: true  # Show estimated reading time?
 
 # Optional external URL for project (replaces project detail page).
@@ -51,7 +51,7 @@ header:
 
 Despite the ambitious goal of achieving hunger and poverty eradication by the United Nations, producing sufficient food to feed the ever-growing human population is facing unprecedented challenges across the globe. Agricultural production needs to double its current size within the next three decades to catch up with the increasing demands. 
 
-As research and technology proceed, a substantial increase in crop outputs is made possible through agricultural intensification, and increasing annual cropping cycles is among the promising means for sustainable intensification with less impact on the environment. The United States (US) has long been a superpower of food producer and exporter in the world. Agriculture, along with its related industries, contributes over $1 trillion to the US’s gross domestic product and supports 22 million of the country’s total employment. 
+As research and technology proceed, a substantial increase in crop outputs is made possible through agricultural intensification, and increasing annual cropping cycles is among the promising means for sustainable intensification with less impact on the environment. The United States (U.S.) has long been a superpower of food producer and exporter in the world. Agriculture, along with its related industries, contributes over $1 trillion to the US’s gross domestic product and supports 22 million of the country’s total employment. 
 
 Exports of maize from the U.S., for example, reached as high as 2.4 billion bushels in 2017, supporting many countries including Mexico and Japan. Among all the food types, crop undergirds the agriculture sector and maintains food security in the US, which pertains to other countries under the accelerated process of globalization. This is the impetus for reliable monitoring of cropland dynamics in the US. 
 
