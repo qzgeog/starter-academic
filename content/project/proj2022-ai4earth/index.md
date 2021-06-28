@@ -61,9 +61,9 @@ Relying on rich open-accessed satellite imagery data, we have generated classifi
 
 We integrate artificial intelligence and remote sensing to automatically estimate annual cropping cycles at a fine spatial resolution (30m) in the conterminous US during 2013-2020. The estimation is made specifically by first optimizing the selection of temporally and spatially stable pixels as training samples and then classifying cropland pixels with information of annual cropping cycle(s) through integrating machine learning algorithms. 
 
-{{< figure src="workflow.jpg" title="Flowchart of estimating pixel-based crop harvesting information (by Shiqi Tao)" >}}
-
 We will use advanced machine learning modules to analyze the “surface” of histograms of NDVI difference to select training sample, and then to automatically classify pixels about the information of cropping cycles. 
+
+{{< figure src="workflow.jpg" title="Flowchart of estimating pixel-based crop harvesting information (by Shiqi Tao)" >}}
 
 {{< figure src="fig1_US.png" title="Figure 1. Study Area: the contiguous United States with four selected regions" >}}
 
@@ -75,25 +75,24 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 Funding
 - [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) Azure Computing Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
 - [American Association of Geographers (AAG)](http://www.aag.org/) Research Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
+
 <br>
 
 Publications
-- [Mapping global cropping intensity](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304685)
-  ([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/))
-<br>
+- Mapping global cropping intensity ([Liu et al. 2020](https://www.qzgeog.com/publication/p2020-liu-crop/))
 
 <br>
 
 Related Links
 - [News in Frederick S. Pardee Center at Boston University](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
 - [Twitter](https://twitter.com/theAAG/status/1367150369021779974) by American Association of Geographers <br>
+
 <br>
 
 <br>
 <br>
-<br>
 
-_Authors: Shiqi Tao, Qi Zhang_
+_Authors: Shiqi Tao & Qi Zhang_
 <br>
 _Updated: April 21, 2021_
 
