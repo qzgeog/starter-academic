@@ -54,6 +54,7 @@ We show that agricultural landscapes in this region were converted, fragmented, 
 <br>
 
 Period: 6/2009-5/2010
+<br>
 Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang 
 <br>
 
