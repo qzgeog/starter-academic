@@ -73,8 +73,8 @@ We will use advanced machine learning modules to analyze the “surface” of hi
 <br>
 
 Funding
-- [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) Azure Computing Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
-- [American Association of Geographers (AAG)](http://www.aag.org/) Research Grant, PI: [Qi Zhang](https://www.qzgeog.com/)
+- [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) Azure Computing Grant  (PI: [Qi Zhang](https://www.qzgeog.com/))
+- [American Association of Geographers (AAG)](http://www.aag.org/) Research Grant (PI: [Qi Zhang](https://www.qzgeog.com/))
 
 <br>
 
@@ -84,8 +84,8 @@ Publications
 <br>
 
 Related Links
-- [News in Frederick S. Pardee Center at Boston University](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) <br>
-- [Twitter](https://twitter.com/theAAG/status/1367150369021779974) by American Association of Geographers <br>
+- [News](https://www.bu.edu/pardee/2020/05/27/postdoc-qi-zhang-awarded-microsoft-ai-for-earth-grant/) in [Frederick S. Pardee Center](https://www.bu.edu/pardee/)
+- [Twitter](https://twitter.com/theAAG/status/1367150369021779974) by [American Association of Geographers (AAG)](http://www.aag.org/)
 
 <br>
 
