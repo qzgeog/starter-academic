@@ -50,33 +50,27 @@ Here, we perofmed multiple endmember spectral mixture analysis (MESMA) examine t
 
 We show that agricultural landscapes in this region were converted, fragmented, and isolated, reflected by decreaed total area, increased patch density, and lengthened Euclidean nearest neighbor distance.
 
-{{< figure src="fig1land.jpg" title="Land use/cover patterns of the Hangzhou metropolitan region in 1994 and 2003 (Zou et al. 2020)" >}}
-
-
+{{< figure src="fig1land.jpg" title="Land use/cover patterns of the Hangzhou metropolitan region in 1994 and 2003 ([Zou et al. 2011](https://www.qzgeog.com/publication/c2011-zou-landscape/))" >}}
 <br>
 
 Period: June 2009 - May 2010
-
 <br>
 
 Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang 
-
-
 <br>
 
 Funding
  - Emerging Talent Project of Zhejiang Province (No. 667140), PI: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/)
  - National Natural Science Foundation of China (No. 41001202), PI: Yuan Zhang
-
-
 <br>
 
-Related Links
-- Publication: [Dynamics of agricultural landscape under urbanization](https://doi.org/10.1007/978-3-642-25188-7_58)
-  ([Zou et al. 2011](https://www.qzgeog.com/publication/c2011-zou-landscape/)) <br>
-- [Notice of project completion](http://hjxy.zjgsu.edu.cn/uploadfiles/Files/2012-9-19/20129199484993212.pdf)
+Related Links:
+- [Notice](http://hjxy.zjgsu.edu.cn/uploadfiles/Files/2012-9-19/20129199484993212.pdf) of project completion
+<br>
 
-
+Publication: 
+- Dynamics of agricultural landscape under urbanization ([Zou et al. 2011](https://www.qzgeog.com/publication/c2011-zou-landscape/))
+<br>
 
 <br>
 
