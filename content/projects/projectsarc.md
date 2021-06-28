@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Completed Projects"
-subtitle = "Research projects that are archived"
+subtitle = "Research projects archived"
 
 [content]
   ## Page type to display. E.g. post, talk, or publication.
