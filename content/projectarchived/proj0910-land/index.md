@@ -60,8 +60,8 @@ Collaborators: Dongdong Zou, Zhi Jiang, and Yuan Zhang
 <br>
 
 Funding
- - Emerging Talent Project of Zhejiang Province (No. 667140), PI: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/)
- - National Natural Science Foundation of China (No. 41001202), PI: Yuan Zhang
+ - Emerging Talent Project of Zhejiang Province (PI: [Qi Zhang](https://www.qzgeog.com/author/qi-zhang/))
+ - National Natural Science Foundation of China (PI: Yuan Zhang)
 
 <br>
 
