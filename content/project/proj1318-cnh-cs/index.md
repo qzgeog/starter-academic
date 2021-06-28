@@ -3,12 +3,12 @@
 
 title: "Coupled Human and Natural Systems"
 summary: "Understanding complex human-environment interactions..."
-
 authors: [Conghe Song, Richard Bilsborrow, Qi Zhang]
 tags: [human-environment, forest livelihoods, payments for ecosystem services]
 categories: [Coupled Nature-Human]
-
 date: 2013-05-15T12:00:09-05:00
+
+reading_time: true  # Show estimated reading time?
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
