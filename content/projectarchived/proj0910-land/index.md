@@ -9,6 +9,8 @@ tags: [agricultural landscape, urbanization, remote sensing, GIS]
 categories: [Landscape Ecology]
 date: 2009-11-24T22:15:39-05:00
 
+reading_time: true  # Show estimated reading time?
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
