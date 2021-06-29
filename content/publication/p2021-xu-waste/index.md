@@ -22,8 +22,8 @@ doi:
 categories: [Global Studies]
 tags: [international trade, network analysis, spatial-temporal analysis]
 
-date: '2021-07-01'
-lastmod: 2021-07-01T23:26:13-05:00
+date: '2021-06-29'
+lastmod: 2021-06-29T08:00:00-05:00
 
 featured: false
 draft: false
