@@ -19,8 +19,9 @@ publication: '*Renewable and Sustainable Energy Reviews*'
 url_pdf: 
 doi: 
 
-categories: [Energy]
+categories: [Global Studies]
 tags: [international trade, network analysis, spatial-temporal analysis]
+
 date: '2021-07-01'
 lastmod: 2021-07-01T23:26:13-05:00
 
