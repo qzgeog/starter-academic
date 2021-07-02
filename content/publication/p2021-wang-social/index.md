@@ -21,14 +21,14 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Rural Studies*'
-url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0743016721001534
 doi: 10.1016/j.jrurstud.2021.05.017
 
 categories: [Coupled Nature-Human]
 tags: [payments for ecosystem services, forest policy, agent-based modeling, social-ecological dynamics]
 
 date: '2021-06-16'
-lastmod: 2021-06-16T10:26:13-05:00
+lastmod: 2021-06-16T08:00:00-05:00
 
 featured: false
 draft: false
