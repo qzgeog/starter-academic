@@ -9,8 +9,8 @@ summary: ''
 authors:
 - Ying Wang
 - Qi Zhang
-- Qirui Li
 - Srikanta Sannigrahi
+- Qirui Li
 - Shiqi Tao
 - Richard Bilsborrow
 - Jiangfeng Li
@@ -20,13 +20,13 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Artificial Societies and Social Simulation*'
-url_pdf: 
-doi: 
+url_pdf: http://jasss.soc.surrey.ac.uk/24/3/7.html
+doi: 10.18564/jasss.4589
 
 categories: [Coupled Nature-Human]
 tags: [payments for ecosystem services, forest policy, agent-based modeling, social-ecological dynamics]
-date: '2021-05-10'
-lastmod: 2020-11-23T23:26:13-05:00
+date: '2021-06-30'
+lastmod: 2021-06-30T08:00:00-05:00
 
 featured: false
 draft: false
