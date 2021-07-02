@@ -14,7 +14,7 @@ authors:
 publication_types:
   - "2"
 abstract: ''
-publication: '*Land Degradation & Development*'
+publication: '*Land Degradation and Development*'
 url_pdf: 
 
 categories: [Coupled Nature-Human]
