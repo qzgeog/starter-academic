@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 # active: true  # Activate this widget? true/false
 # weight: 10  # Order that this section will appear.
 
-# title: "Publications"
+title: "Publications"
 # subtitle: ""
 
 content:
@@ -47,13 +47,16 @@ content:
   
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  # columns: '1'
+  columns: "1"
   ## Toggle between the various page layout types.
   ###   1 = List
   ###   2 = Compact
   ###   3 = Card
   ###   4 = Citation (publication only)
   view: 4
+  
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
   
 # design.background:
   ## Apply a background color, gradient, or image.
