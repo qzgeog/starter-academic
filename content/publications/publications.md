@@ -40,14 +40,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: payments for ecosystem services
+    - name: PES
       tag: payments for ecosystem services
     - name: forest policy
       tag: forest policy
   
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  # columns: '1'
   ## Toggle between the various page layout types.
   ###   1 = List
   ###   2 = Compact
