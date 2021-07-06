@@ -25,7 +25,7 @@ content:
   order: "desc"
 
   ## Filter posts by a taxonomy term.
-  content.filters:
+  filters:
     tag: "forest policy"
     category: ""
     publication_type: ""
