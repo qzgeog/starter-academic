@@ -42,7 +42,7 @@ design:
   ###   4 = Citation (publication only)
   view: 4
   
-design.background:
+design:
   ## Apply a background color, gradient, or image.
   ##   Uncomment (by removing `#`) an option to apply it.
   ##   Choose a light or dark text color by setting `text_color_light`.
