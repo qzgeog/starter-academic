@@ -26,10 +26,10 @@ content:
 
   ## Filter posts by a taxonomy term.
   filters:
-    tag: "forest policy"
+    tag: ""
     category: ""
     publication_type: ""
-    author: "Qi Zhang"
+    author: ""
     exclude_featured: false
     exclude_past: false
     exclude_future: false
