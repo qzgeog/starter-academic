@@ -26,8 +26,8 @@ content:
 
   ## Filter posts by a taxonomy term.
   filters:
-    tag: ""
-    category: ["forest policy", "payments for ecosystem services"]
+    tag: ["forest policy", "payments for ecosystem services"]
+    category: ""
     publication_type: ""
     author: ""
     exclude_featured: false
