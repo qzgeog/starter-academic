@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-12-03T12:00:00-05:00
 
-authors: [Qi Zhang, Shiqi Tao, Richard Bilsborrow, Ying Wang, Conghe Song]
+authors: [Qi Zhang, Shiqi Tao, Richard Bilsborrow, Conghe Song]
 tags: [payments for ecosystem services, forest policy, land use change, household livelihoods]
 
 # Is this a featured talk? (true/false)
