@@ -71,6 +71,6 @@ subtitle = ""
 
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering talks](./talk/).
-{{% /callout %}}
+# {{% callout note %}}
+# Quickly discover relevant content by [filtering talks](./talk/).
+# {{% /callout %}}
