@@ -3,10 +3,10 @@
 ## A Recent Publications section created with the Pages widget.
 ## This section displays recent blog posts from `content/publication/`.
 
-widget: "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
-weight: 10  # Order that this section will appear.
+widget: "pages"   # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true    # This file represents a page section.
+active: true      # Activate this widget? true/false
+weight: 10        # Order that this section will appear.
 
 title: "Publications"
 subtitle: ""
@@ -42,7 +42,7 @@ design:
   ###   4 = Citation (publication only)
   view: 4
   
-design:
+design.background:
   ## Apply a background color, gradient, or image.
   ##   Uncomment (by removing `#`) an option to apply it.
   ##   Choose a light or dark text color by setting `text_color_light`.
