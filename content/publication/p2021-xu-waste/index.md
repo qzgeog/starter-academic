@@ -2,8 +2,7 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Evolution of structural properties and its determinants of global
-  waste paper trade network based on temporal exponential random graph models'
+title: 'Evolution of structural properties and determinants of global waste paper trade network'
 subtitle: ''
 summary: ''
 authors:
