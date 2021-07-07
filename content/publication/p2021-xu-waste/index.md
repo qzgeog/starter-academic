@@ -33,7 +33,7 @@ draft: false
 ## Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: 'Global waste paper trade network (2018)'
-  focal_point: 'Smart'
+  focal_point: 'Center'
   preview_only: true
 
 ## Projects (optional).
@@ -45,11 +45,14 @@ projects: []
 
 ---
 
+Global waste paper trade not only addresses resource scarcity issues, alleviates environmental pressures and brings substantial economic gains, but also contributes to the development of global circular economy. 
+<br>
 
+Here, we construct global waste paper trade networks (GWPTNs) during 2000–2018, and examine their structural evolution and determinants.
+- Continent: Asia is the leading recipient of global waste paper, while Europe and North America are the main exporters.
+- Economy: China and India dominate the waste paper import markets while the U.S. is the largest exporter; Germany is important in both importing and exporting hubs.
+- Determinants: urbanization, GDP, environmental regulation, sharing language or religion, culture & historical relationships
 
-
-
-
-
+{{< figure src="featured.jpg" title="Global waste paper trade network (2018)." >}}
 
 
