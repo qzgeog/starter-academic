@@ -32,9 +32,9 @@ draft: false
 ## To use, add an image named `featured.jpg/png` to your page's folder.
 ## Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+  caption: 'Global waste paper trade network (2018)'
+  focal_point: 'Smart'
+  preview_only: true
 
 ## Projects (optional).
 ##   Associate this post with one or more of your projects.
@@ -44,3 +44,12 @@ image:
 projects: []
 
 ---
+
+
+
+
+
+
+
+
+
