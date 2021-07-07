@@ -14,7 +14,7 @@ interval: 4000
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen. # calc(150%)
-height: '700px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '500px; background-position:center; background-repeat: no-repeat; background-size: cover'
 
 # Slides.
 # Duplicate an "item:" block to add more slides.
