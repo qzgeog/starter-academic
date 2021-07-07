@@ -10,7 +10,7 @@ user_groups: ['Collaborators']
 superuser: false
 
 # role/position
-role: Doctoral Student
+role: Doctoral Candidate
 
 # organizations/affiliations
 organizations:
