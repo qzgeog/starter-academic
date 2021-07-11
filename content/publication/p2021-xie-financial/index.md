@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Rui Xie
-- W Fu
+- Wei Fu
 - Siling Yao
 - Qi Zhang
 
