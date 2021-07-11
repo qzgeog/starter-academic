@@ -19,7 +19,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S1364032121006870
 doi: 10.1016/j.rser.2021.111402
 
 categories: [Global Studies]
-tags: [international trade, network analysis, spatial-temporal analysis]
+tags: [international trade, network analysis, spatiotemporal analysis]
 
 date: '2021-07-06'
 lastmod: 2021-07-06T08:00:00-05:00
