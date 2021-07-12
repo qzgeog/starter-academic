@@ -10,7 +10,7 @@ user_groups: ['Collaborators']
 superuser: false
 
 # role/position
-role: Doctoral Student
+role: Doctoral Candidate
 
 # organizations/affiliations
 organizations:
@@ -60,6 +60,8 @@ She is conducting research under the supervision of Prof. [Rui Xie](http://cet.h
 <br>
 
 Her recent publications include:
+- [Financial agglomeration and green productivity](https://www.qzgeog.com/publication/p2021-xie-financial/)
+  published in [_Energy Economics_](https://www.journals.elsevier.com/energy-economics) in 2021
 - [Land finance and productivity](https://doi.org/10.1177/0160017619836270)
   published in [_International Regional Science Review_](https://journals.sagepub.com/home/irx) in 2019
 <br>
