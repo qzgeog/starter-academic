@@ -24,6 +24,7 @@ interests:
 - economics and trade
 - socioeconomic development
 - resources & environment
+- artificial intelligence
 
 education:
   courses:
