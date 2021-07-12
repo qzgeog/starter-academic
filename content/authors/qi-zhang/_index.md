@@ -56,7 +56,7 @@ social:
   link: https://www.linkedin.com/in/qizhang510/
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Qi_Zhang115
+  link: https://www.researchgate.net/profile/Qi-Zhang-161
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/qzgeog
