@@ -41,7 +41,7 @@ experience:
   location: 'Chapel Hill, NC'
   date_start: '2017-05-14'
   date_end: '2018-11-20'
-  description = "Model coupled natural and human systems with agent-based models (Mentors: Conghe Song, Richard Bilsborrow)"
+  description: 'Model coupled natural and human systems with agent-based models (Mentors: Conghe Song, Richard Bilsborrow)'
 experience:
   title: 'Research Assistant'
   company: 'Department of Geography, University of North Carolina at Chapel Hill'
