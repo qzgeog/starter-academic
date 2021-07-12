@@ -58,7 +58,7 @@ email: ""
 
 ---
 
-Prof. [Rui Xie](http://cet.hnu.edu.cn/info/1150/7842.htm) is a Professor in Economics at Hunan University.
+Prof. [Rui Xie](http://cet.hnu.edu.cn/info/1150/7842.htm) is a Professor of Economics in the School of Economics & Trade at Hunan University.
 <br>
 
 
