@@ -52,7 +52,7 @@ social:
     link: https://twitter.com/qzgeog
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Qi_Zhang115
+    link: https://www.researchgate.net/profile/Qi-Zhang-161
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/qizhang510/
@@ -80,4 +80,13 @@ user_groups:
 
 ---
 
-I am a geographer with research interests in coupled human and natural systems, land use change, forest conservation, and household livelihoods. I use spatial data such as satellite observations and socioeconomic data collected from households surveys to examine when, where, how and why land use and land cover change. I integrate statistical models, agent-based models, remote sensing algorithms and machine learning techniques to answer questions that address the most urgent needs towards achieving sustainability goals such as ecosystem conservation and food security.
+I am a geographer with research interests in coupled human and natural systems, land use change, forest conservation, and household livelihoods. 
+<br>
+
+I use spatial data such as satellite observations and socioeconomic data collected from households surveys to examine when, where, how and why land use and land cover change. 
+<br>
+
+I integrate statistical models, agent-based models, remote sensing algorithms and machine learning techniques to answer questions that address the most urgent needs towards achieving sustainability goals such as ecosystem conservation and food security.
+<br>
+
+
