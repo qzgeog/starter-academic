@@ -21,7 +21,7 @@ organizations:
 bio: Economist
 
 interests:
-- economy
+- economics
 - econometrics
 - land development
 - environmental pollution
