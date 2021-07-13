@@ -20,7 +20,6 @@ height: '600px; background-position:center; background-repeat: no-repeat; backgr
 # Duplicate an "item:" block to add more slides.
 
 item:
-
   - title: ''
     content: 'Household Interview'
     align: right  # Choose `center`, `left`, or `right` alignment.
