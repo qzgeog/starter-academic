@@ -48,20 +48,22 @@ header:
 
 ---
 
-Background: Payments for ecosystem services (PES) programs compensate landholders to improve land stewardship. China implemented forest restoration and conservation policies that adopt the PES approach. The socio-economic and ecological effect is often confounded by the multi-scale interactions operating within the complex system, known as the coupled human and natural system (CHANS). Two major PES programs of interest are:
+**Background**
+<br>
+Payments for ecosystem services (PES) programs compensate landholders to improve land stewardship. China implemented forest restoration and conservation policies that adopt the PES approach. The socio-economic and ecological effect is often confounded by the multi-scale interactions operating within the complex system, known as the coupled human and natural system (CHANS). Two major PES programs of interest are:
 - Converstion of Cropland to Forest Program (CCFP)
 - Ecological Welfare Forest Program (EWFP)
 <br>
 <br>
 
 
-Theme 1: Forest Dynamics
+**Theme 1: Forest Dynamics**
 <br>
 
 We establish three new remotely sensed forest development indices -- canopy closure index (CCI), maturity index (MI), and synergistic successional index (SSI) -- to monitor forest dynamics based on the Tasseled Cap transformation. 
 <br>
 
-{{< figure src="fig1_tc.jpg" title="Fig. 1. Canopy Closure Line (CCL) is defined based on canopy closure points in the brightness–greenness space of the tasseled cap transformation." >}} 
+{{< figure src="fig1_tc.jpg" title="Canopy Closure Line (CCL) defined based on canopy closure points in brightness–greenness (B-G) space of tasseled cap transformation." >}} 
 <br>
 
 We employ multitemporal remote sensing analysis to infer the net effect of forest conservation policies in Tiantangzhai township, Anhui, China. Our results indicate that between 2002 and 2013, substantial land cover changes took place following the implementation of these two programs compared with the decade before. 
@@ -75,7 +77,7 @@ Find more in the [book chapter](https://www.qzgeog.com/publication/c2018-zhangqi
 <br>
 
 
-Theme 2: Cropland Abandonment
+**Theme 2: Cropland Abandonment**
 <br>
 
 Cropland abandonment has emerged as a common phenomenon in land use transitions, i.e., net forest gain. Ecologically, cropland abandonment and payments for ecosystem services (PES) programs can both facilitate the provision of ecosystem services through reforestation and forest regeneration. 
@@ -96,7 +98,7 @@ Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-aban
 <br>
 
 
-Theme 3: Rural-to-Urban Migration
+**Theme 3: Rural-to-Urban Migration**
 <br>
 
 Labor loss is a major driver of land use decisions by households. We find that CCFP can stimulate rural-to-urban migration by freeing farm labor from land cultivation as it retires cropland in marginal areas for reforestation. 
@@ -107,7 +109,7 @@ Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-migr
 <br>
 
 
-Theme 4: Rural Livelihoods
+**Theme 4: Rural Livelihoods**
 <br>
 
 Positive socioeconomic outcomes of the programs are essential for the long-term success of eco-environment conservation. 
