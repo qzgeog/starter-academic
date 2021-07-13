@@ -52,7 +52,7 @@ item:
     overlay_color: '#ECF0F1'
     overlay_img: cnh-images/abandonedland.JPG
     overlay_filter: 0
-   - title: 
+  - title: 
     content: Raising domestic animals
     align: right
     overlay_color: '#ECF0F1'
