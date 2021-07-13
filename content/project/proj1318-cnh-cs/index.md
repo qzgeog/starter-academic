@@ -130,6 +130,29 @@ Find more in the [article](https://www.qzgeog.com/publication/p2019-zhangqi-inco
 <br>
 
 
+Theme 5: Pathways from PES to forest sustianabilty
+<br>
+
+We integrates household survey data, satellite imagery, and statistical models to identify socioeconomic and ecological pathways from PES programs to forest sustainability through labor migration. The investigation is carried out at two mountainous sites with distinct biophysical and socioeconomic conditions, one in a subtropical mountainous region (Tianma Nature Reserve, Tiantangzhai, Anhui) and the other in the semi-arid Loess Plateau (Ji County, Shanxi). 
+<br>
+
+{{< figure src="fig5a_pathways.jpg" title="Pathways from PES to forest sustainability" >}}
+<br>
+
+We find divergent CCFP outcomes on migration behavior, stimulating both local- and distant-migration in the Anhui site while discouraging distant-migration in the Shanxi site, after controlling for factors at the individual, household, community and regional levels. 
+<br>
+
+Forest recovery is positively associated with distant-migration in Anhui but with local-migration in Shanxi. Contextual factors interact with demographic-socioeconomic factors to influence household livelihoods in both areas, leading to various socio-ecological pathways from CCFP participation to enhanced forest sustainability. Regional differences should therefore be taken into account in the design of future large-scale PES programs.
+<br>
+
+{{< figure src="fig5b_gwr.jpg" title="Spatial relationships between labor migration and forest change" >}}
+<br>
+
+See details in the [article](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/) published on [_Ecosystem Services_](https://doi.org/10.1016/j.ecoser.2020.101167).
+<br>
+<br>
+
+
 Funding sources:
 - [National Science Foundation](https://www.nsf.gov/), PI: [Conghe Song](https://csong.web.unc.edu/)
 - [Carolina Population Center](http://www.cpc.unc.edu/), PI: [Richard Bilsborrow](https://www.qzgeog.com/author/richard-bilsborrow)
