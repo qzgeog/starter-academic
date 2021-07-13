@@ -28,7 +28,6 @@ item:
     overlay_color: '#ECF0F1'  # An HTML color value. '#666'
     overlay_img: cnh-images/interview2.png  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
     overlay_filter: 0  # Darken the image. Value in range 0-1.
-    
 
   - title: 
     content: Field work group
