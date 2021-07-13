@@ -50,6 +50,7 @@ header:
 
 **Background**
 <br>
+
 Payments for ecosystem services (PES) programs compensate landholders to improve land stewardship. China implemented forest restoration and conservation policies that adopt the PES approach. The socio-economic and ecological effect is often confounded by the multi-scale interactions operating within the complex system, known as the coupled human and natural system (CHANS). Two major PES programs of interest are:
 - Converstion of Cropland to Forest Program (CCFP)
 - Ecological Welfare Forest Program (EWFP)
@@ -72,7 +73,7 @@ We employ multitemporal remote sensing analysis to infer the net effect of fores
 During 2002-2013, natural forests increased by 14%, while the area of cropland declined by 9%. This increase in total forest cover likewise resulted in a decline in landscape-wide fragmentation as natural forests received protection and new forest stands were established. CCFP forest stands are located in proximity to managing households and in favorable topographic positions experienced accelerated canopy structural development. 
 <br>
 
-Find more in the [book chapter](https://www.qzgeog.com/publication/c2018-zhangqi-forest/) published in [_Comprehensive Remote Sensing_](https://doi.org/10.1016/B978-0-12-409548-9.10435-X)
+Find more in the [book chapter](https://www.qzgeog.com/publication/c2018-zhangqi-forest/) published in [_Comprehensive Remote Sensing_](https://doi.org/10.1016/B978-0-12-409548-9.10435-X).
 <br>
 <br>
 
@@ -93,7 +94,7 @@ Our findings indicate that:
 4) among household socioeconomic conditions, poor farm labor availability and high proportion of local off-farm income in total gross income increased the likelihood of cropland abandonment, while owning domestic animals decreased the likelihood of abandoning cropland. 
 <br>
 
-Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-abandon/) published in [_Land Use Policy_](https://doi.org/10.1016/j.landusepol.2018.01.001)
+Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-abandon/) published in [_Land Use Policy_](https://doi.org/10.1016/j.landusepol.2018.01.001).
 <br>
 <br>
 
@@ -104,7 +105,7 @@ Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-aban
 Labor loss is a major driver of land use decisions by households. We find that CCFP can stimulate rural-to-urban migration by freeing farm labor from land cultivation as it retires cropland in marginal areas for reforestation. 
 <br>
 
-Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-migration/) published in [_Population and Environment_](https://doi.org/10.1007/s11111-018-0307-5)
+Find more in the [article](https://www.qzgeog.com/publication/p2018-zhangqi-migration/) published in [_Population and Environment_](https://doi.org/10.1007/s11111-018-0307-5).
 <br>
 <br>
 
@@ -124,7 +125,7 @@ We examine income distribution and inequality of rural households under CCFP and
 A regression-based decomposition of inequality shows that the CCFP indirectly alters livelihoods by increasing outmigration with remittances, but it also adds to inequality from shifting livelihoods to non-agricultural activities. Meanwhile, EWFP payments positively affect agricultural incomes and contribute 16% to agricultural income inequality. Finally, human capital, natural capital and physical capital all play important roles in generating income and inequality, but the factors affecting inequality from agricultural and non-agricultural activities are different.
 <br>
 
-Find more in the [article](https://www.qzgeog.com/publication/p2019-zhangqi-income/) published in [_Ecological Economics_](https://doi.org/10.1016/j.ecolecon.2019.02.019)
+Find more in the [article](https://www.qzgeog.com/publication/p2019-zhangqi-income/) published in [_Ecological Economics_](https://doi.org/10.1016/j.ecolecon.2019.02.019).
 <br>
 <br>
 
