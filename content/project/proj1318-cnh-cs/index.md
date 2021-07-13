@@ -1,4 +1,5 @@
 ---
+
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Coupled Human and Natural Systems"
@@ -47,6 +48,7 @@ header:
   image: "header1_anhui.jpg"
 
 ---
+
 
 **Background**
 <br>
@@ -148,7 +150,7 @@ Forest recovery is positively associated with distant-migration in Anhui but wit
 {{< figure src="fig5b_gwr.jpg" title="Spatial relationships between labor migration and forest change" >}}
 <br>
 
-See details in the [article](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/) published on [_Ecosystem Services_](https://doi.org/10.1016/j.ecoser.2020.101167).
+Find more in the [article](https://www.qzgeog.com/publication/p2020-zhangqi-divergent/) published in [_Ecosystem Services_](https://doi.org/10.1016/j.ecoser.2020.101167).
 <br>
 <br>
 
