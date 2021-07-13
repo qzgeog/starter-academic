@@ -28,35 +28,30 @@ item:
     overlay_color: '#ECF0F1'  # An HTML color value. '#666'
     overlay_img: cnh-images/interview2.png  # Image path relative to your `static/media/` folder. headers/bubbles-wide.jpg
     overlay_filter: 0  # Darken the image. Value in range 0-1.
-
   - title: 
     content: Field work group
     align: right
     overlay_color: #7B7D7D
     overlay_img: 'cnh-images/group.jpg
     overlay_filter: 0
-
   - title:
     content: Recording geolocation with GPS unit
     align: right
     overlay_color: #ECF0F1
     overlay_img: cnh-images/fieldgps.JPG
     overlay_filter: 0
-
   - title:
     content: Cropland parcels
     align: right
     overlay_color: #ECF0F1
     overlay_img: cnh-images/croplandparcel.JPG
     overlay_filter: 0
-
   - title:
     content: Abandoned croplands
     align: right
     overlay_color: #ECF0F1
     overlay_img: cnh-images/abandonedland.JPG
     overlay_filter: 0
- 
    - title: 
     content: Raising domestic animals
     align: right
