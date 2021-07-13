@@ -61,7 +61,7 @@ Theme 1: Forest Dynamics
 We establish three new remotely sensed forest development indices -- canopy closure index (CCI), maturity index (MI), and synergistic successional index (SSI) -- to monitor forest dynamics based on the Tasseled Cap transformation. 
 <br>
 
-{{< figure src="fig1_tc.png" title="Fig. 1. Canopy Closure Line (CCL) is defined based on canopy closure points in the brightness–greenness space of the tasseled cap transformation." >}} 
+{{< figure src="fig1_tc.jpg" title="Fig. 1. Canopy Closure Line (CCL) is defined based on canopy closure points in the brightness–greenness space of the tasseled cap transformation." >}} 
 <br>
 
 We employ multitemporal remote sensing analysis to infer the net effect of forest conservation policies in Tiantangzhai township, Anhui, China. Our results indicate that between 2002 and 2013, substantial land cover changes took place following the implementation of these two programs compared with the decade before. 
@@ -81,7 +81,7 @@ Theme 2: Cropland Abandonment
 Cropland abandonment has emerged as a common phenomenon in land use transitions, i.e., net forest gain. Ecologically, cropland abandonment and payments for ecosystem services (PES) programs can both facilitate the provision of ecosystem services through reforestation and forest regeneration. 
 <br>
 
-{{< figure src="fig2_abandon.JPG" title="Abandoned cropland parcels in rural China." >}}
+{{< figure src="fig2_abandon.jpg" title="Abandoned cropland parcels in rural China." >}}
 <br>
 
 Our findings indicate that: 
