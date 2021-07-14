@@ -2,8 +2,8 @@
 
 ## Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'How does financial agglomeration affect green total factor productivity?
-  Empirical study of spatial durbin model based on dual fixed space and time'
+title: 'Effects of financial agglomeration on green total factor productivity in Chinese cities:
+  Insights from an empirical spatial Durbin model'
 subtitle: ''
 summary: ''
 authors:
@@ -16,14 +16,14 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Energy Economics*'
-url_pdf: 
-doi: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0140988321003376
+doi: 10.1016/j.eneco.2021.105449
 
 categories: [Global Studies]
 tags: [economic development, spatiotemporal analysis]
 
-date: '2021-07-10'
-lastmod: 2021-07-10T08:00:00-05:00
+date: '2021-07-13'
+lastmod: 2021-07-13T08:00:00-05:00
 
 featured: false
 draft: false
@@ -32,9 +32,9 @@ draft: false
 ## To use, add an image named `featured.jpg/png` to your page's folder.
 ## Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Global waste paper trade network (2018)'
-  focal_point: 'Center'
-  preview_only: true
+  caption: ''
+  focal_point: ''
+  preview_only: 
 
 ## Projects (optional).
 ##   Associate this post with one or more of your projects.
