@@ -52,6 +52,6 @@ Here, we construct global waste paper trade networks (GWPTNs) during 2000–2018
 - Economy: China and India dominate the waste paper import markets while the U.S. is the largest exporter; Germany is important in both importing and exporting hubs.
 - Determinants: urbanization, GDP, environmental regulation, sharing language or religion, culture & historical relationships
 
-{{< figure src="featured.jpg" title="Global waste paper trade network (2018)." >}}
+{{< figure src="featured.jpg" title="Global network of waste paper trade (2018)." >}}
 
 
