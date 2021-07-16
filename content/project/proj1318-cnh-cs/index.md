@@ -163,14 +163,14 @@ Funding sources:
 
 
 *Related Links:* <br>
-- News report in UNC Discover: [Restoring Rural China](https://www.unc.edu/discover/restoring-rural-china/)
+- News report in UNC Discover: [Restoring rural China](https://www.unc.edu/discover/restoring-rural-china/)
 - Qi Zhang's [Doctoral Dissertation](https://www.proquest.com/openview/cf7ea4a23b9daf256f2448658f09f207/1?pq-origsite=gscholar&cbl=18750): 
-  social-ecological impacts of PES
+  Social-ecological impacts of PES
 <br>
 <br>
 
 
-_Authors: Shiqi Tao, Qi Zhang_
+_Authors: Qi Zhang, Shiqi Tao_
 <br>
 _Updated: July 12, 2021_
 <br>
